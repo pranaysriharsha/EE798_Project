@@ -1,0 +1,26 @@
+Photo: dense X 7650 x 745 -> about 0.23 GB needed (x10), 1.8 GB free
+Computers: dense X 13752 x 767 -> about 0.42 GB needed (x10), 1.8 GB free
+LastFMAsia: dense X 7624 x 128 -> about 0.04 GB needed (x10), 1.8 GB free
+Downloading https://graphmining.ai/datasets/ptg/lastfm_asia.npz
+SKIPPED LastFMAsia: could not be downloaded (<urlopen error [Errno 11001] getaddrinfo failed>)
+  dataset  nodes  edges  features  classes  edge_homophily  isolated  feature_min  feature_max  zero_feature_rows
+    Photo   7650 119081       745        8           0.827       115          0.0          1.0                  0
+Computers  13752 245861       767       10           0.777       281          0.0          1.0                  0
+  Photo seed 0: 102.6 s | LP 91.70  MLP + C&S 91.90  GCN 91.96
+  Photo seed 1: 104.4 s | LP 91.31  MLP + C&S 93.07  GCN 92.42
+  Photo seed 2: 103.8 s | LP 91.05  MLP + C&S 92.48  GCN 91.44
+Photo done (total 312 s)
+  Computers seed 0: 205.0 s | LP 89.68  MLP + C&S 85.75  GCN 78.99
+  Computers seed 1: 201.2 s | LP 88.40  MLP + C&S 86.19  GCN 79.13
+  Computers seed 2: 199.4 s | LP 87.82  MLP + C&S 87.35  GCN 78.70
+Computers done (total 918 s)
+
+E5: test accuracy (mean +- std over 3 splits)
+Method               Photo (h=0.83)      Computers (h=0.78)
+MLP                   88.50 +- 0.90           77.58 +- 2.07
+LP                    91.35 +- 0.33           88.63 +- 0.95
+GCN                   91.94 +- 0.49           78.94 +- 0.22
+MLP + S               92.46 +- 0.65           84.77 +- 1.00
+MLP + C&S             92.48 +- 0.59           86.43 +- 0.83
+
+Total time 919 s

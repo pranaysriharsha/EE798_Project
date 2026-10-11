@@ -1,0 +1,48 @@
+  Texas seed 0:   6.0 s | LP 36.84  Linear + C&S 81.58  MLP + C&S 57.89  GCN 47.37
+  Texas seed 1:   6.5 s | LP 52.63  Linear + C&S 84.21  MLP + C&S 63.16  GCN 52.63
+  Texas seed 2:   7.3 s | LP 52.63  Linear + C&S 71.05  MLP + C&S 60.53  GCN 52.63
+  Texas seed 3:   6.6 s | LP 55.26  Linear + C&S 73.68  MLP + C&S 73.68  GCN 55.26
+  Texas seed 4:   6.3 s | LP 47.37  Linear + C&S 81.58  MLP + C&S 52.63  GCN 50.00
+  Texas seed 5:   6.7 s | LP 57.89  Linear + C&S 89.47  MLP + C&S 78.95  GCN 63.16
+  Texas seed 6:   7.1 s | LP 55.26  Linear + C&S 89.47  MLP + C&S 71.05  GCN 60.53
+  Texas seed 7:   6.9 s | LP 63.16  Linear + C&S 92.11  MLP + C&S 52.63  GCN 68.42
+  Texas seed 8:   7.3 s | LP 52.63  Linear + C&S 84.21  MLP + C&S 52.63  GCN 55.26
+  Texas seed 9:   7.3 s | LP 57.89  Linear + C&S 76.32  MLP + C&S 57.89  GCN 60.53
+Texas done (total 69 s)
+  Chameleon seed 0:  38.1 s | LP 50.00  Linear + C&S 53.51  MLP + C&S 51.10  GCN 63.82
+  Chameleon seed 1:  39.4 s | LP 45.18  Linear + C&S 49.34  MLP + C&S 47.37  GCN 71.49
+  Chameleon seed 2:  38.4 s | LP 44.08  Linear + C&S 50.44  MLP + C&S 48.90  GCN 65.35
+  Chameleon seed 3:  40.0 s | LP 46.93  Linear + C&S 55.26  MLP + C&S 53.95  GCN 67.11
+  Chameleon seed 4:  38.1 s | LP 42.11  Linear + C&S 51.10  MLP + C&S 51.75  GCN 65.13
+  Chameleon seed 5:  37.8 s | LP 46.49  Linear + C&S 49.56  MLP + C&S 50.44  GCN 64.91
+  Chameleon seed 6:  36.7 s | LP 41.23  Linear + C&S 45.61  MLP + C&S 50.44  GCN 64.25
+  Chameleon seed 7:  37.4 s | LP 48.25  Linear + C&S 50.00  MLP + C&S 51.97  GCN 69.30
+  Chameleon seed 8:  36.6 s | LP 42.76  Linear + C&S 51.10  MLP + C&S 55.92  GCN 68.20
+  Chameleon seed 9:  36.0 s | LP 42.98  Linear + C&S 50.00  MLP + C&S 54.82  GCN 63.38
+Chameleon done (total 448 s)
+sweep Cora done (total 526 s)
+sweep Citeseer done (total 675 s)
+sweep Pubmed done (total 997 s)
+sweep Texas done (total 1016 s)
+sweep Chameleon done (total 1099 s)
+
+E2: test accuracy (mean +- std over 10 splits)
+Method                Texas (h=0.06)    Chameleon (h=0.23)
+Linear                 83.42 +- 6.91         47.96 +- 1.86
+MLP                    67.63 +- 7.75         50.68 +- 2.80
+LP                     53.16 +- 7.10         45.00 +- 2.87
+GCN                    56.58 +- 6.48         66.29 +- 2.65
+MLP + S                61.58 +- 8.88         51.38 +- 2.40
+MLP + C&S              62.11 +- 9.46         51.67 +- 2.64
+Linear + C&S           82.37 +- 7.02         50.59 +- 2.56
+
+MLP + S test accuracy vs fixed alpha_smooth (alpha 0 = plain MLP)
+alpha_s     0.00   0.10   0.30   0.50   0.70   0.80   0.90   0.99
+dataset                                                          
+Cora       72.69  73.26  74.81  77.94  84.03  86.50  87.73  72.58
+Citeseer   68.68  69.13  70.21  71.52  74.44  75.87  75.69  71.43
+Pubmed     86.81  86.97  87.29  87.84  88.89  88.66  86.52  79.37
+Texas      67.63  66.32  63.42  61.84  59.47  58.42  57.11  54.21
+Chameleon  50.68  50.88  50.35  50.26  50.57  51.27  51.91  35.55
+
+Total time 1099 s

@@ -1,0 +1,58 @@
+setting,max_scale,method,test_mean,test_std,val_mean,sigma,median_factor,share_factor_gt_2,part,grid,share_alpha_s_0
+"Pubmed, under-fitted Linear",none,Linear,83.119,0.307,83.505,0.869,6.705,96.034,max_scale,,
+"Pubmed, under-fitted Linear",none,Linear + C,84.64,0.29,84.682,0.869,6.705,96.034,max_scale,,
+"Pubmed, under-fitted Linear",none,Linear + C&S,84.118,0.257,84.205,0.869,6.705,96.034,max_scale,,
+"Pubmed, under-fitted Linear",1,Linear,83.119,0.307,83.505,0.869,6.705,96.034,max_scale,,
+"Pubmed, under-fitted Linear",1,Linear + C,87.15,0.623,87.507,0.869,6.705,96.034,max_scale,,
+"Pubmed, under-fitted Linear",1,Linear + C&S,87.186,0.256,87.573,0.869,6.705,96.034,max_scale,,
+"Pubmed, under-fitted Linear",2,Linear,83.119,0.307,83.505,0.869,6.705,96.034,max_scale,,
+"Pubmed, under-fitted Linear",2,Linear + C,87.693,0.578,88.202,0.869,6.705,96.034,max_scale,,
+"Pubmed, under-fitted Linear",2,Linear + C&S,86.785,0.422,87.015,0.869,6.705,96.034,max_scale,,
+"Pubmed, under-fitted Linear",5,Linear,83.119,0.307,83.505,0.869,6.705,96.034,max_scale,,
+"Pubmed, under-fitted Linear",5,Linear + C,86.785,0.591,86.99,0.869,6.705,96.034,max_scale,,
+"Pubmed, under-fitted Linear",5,Linear + C&S,85.756,0.498,85.818,0.869,6.705,96.034,max_scale,,
+"Pubmed, under-fitted Linear",10,Linear,83.119,0.307,83.505,0.869,6.705,96.034,max_scale,,
+"Pubmed, under-fitted Linear",10,Linear + C,85.573,0.458,85.503,0.869,6.705,96.034,max_scale,,
+"Pubmed, under-fitted Linear",10,Linear + C&S,84.762,0.285,84.809,0.869,6.705,96.034,max_scale,,
+"Pubmed, re-tuned Linear",none,Linear,86.952,0.724,87.446,0.299,11.637,98.027,max_scale,,
+"Pubmed, re-tuned Linear",none,Linear + C,88.367,0.603,88.572,0.299,11.637,98.027,max_scale,,
+"Pubmed, re-tuned Linear",none,Linear + C&S,89.914,0.708,89.967,0.299,11.637,98.027,max_scale,,
+"Pubmed, re-tuned Linear",1,Linear,86.952,0.724,87.446,0.299,11.637,98.027,max_scale,,
+"Pubmed, re-tuned Linear",1,Linear + C,87.201,0.669,87.7,0.299,11.637,98.027,max_scale,,
+"Pubmed, re-tuned Linear",1,Linear + C&S,89.782,0.687,89.906,0.299,11.637,98.027,max_scale,,
+"Pubmed, re-tuned Linear",2,Linear,86.952,0.724,87.446,0.299,11.637,98.027,max_scale,,
+"Pubmed, re-tuned Linear",2,Linear + C,87.424,0.632,87.867,0.299,11.637,98.027,max_scale,,
+"Pubmed, re-tuned Linear",2,Linear + C&S,89.721,0.759,89.957,0.299,11.637,98.027,max_scale,,
+"Pubmed, re-tuned Linear",5,Linear,86.952,0.724,87.446,0.299,11.637,98.027,max_scale,,
+"Pubmed, re-tuned Linear",5,Linear + C,87.885,0.576,88.126,0.299,11.637,98.027,max_scale,,
+"Pubmed, re-tuned Linear",5,Linear + C&S,89.782,0.656,89.947,0.299,11.637,98.027,max_scale,,
+"Pubmed, re-tuned Linear",10,Linear,86.952,0.724,87.446,0.299,11.637,98.027,max_scale,,
+"Pubmed, re-tuned Linear",10,Linear + C,88.139,0.502,88.384,0.299,11.637,98.027,max_scale,,
+"Pubmed, re-tuned Linear",10,Linear + C&S,89.746,0.589,89.972,0.299,11.637,98.027,max_scale,,
+"Cora, standard Linear",none,Linear,75.249,1.835,75.786,0.223,4.857,91.087,max_scale,,
+"Cora, standard Linear",none,Linear + C,77.569,1.644,77.301,0.223,4.857,91.087,max_scale,,
+"Cora, standard Linear",none,Linear + C&S,87.808,1.972,88.835,0.223,4.857,91.087,max_scale,,
+"Cora, standard Linear",1,Linear,75.249,1.835,75.786,0.223,4.857,91.087,max_scale,,
+"Cora, standard Linear",1,Linear + C,75.617,1.711,76.229,0.223,4.857,91.087,max_scale,,
+"Cora, standard Linear",1,Linear + C&S,87.698,1.848,88.577,0.223,4.857,91.087,max_scale,,
+"Cora, standard Linear",2,Linear,75.249,1.835,75.786,0.223,4.857,91.087,max_scale,,
+"Cora, standard Linear",2,Linear + C,76.427,1.864,76.562,0.223,4.857,91.087,max_scale,,
+"Cora, standard Linear",2,Linear + C&S,87.624,1.811,88.614,0.223,4.857,91.087,max_scale,,
+"Cora, standard Linear",5,Linear,75.249,1.835,75.786,0.223,4.857,91.087,max_scale,,
+"Cora, standard Linear",5,Linear + C,77.532,1.673,77.079,0.223,4.857,91.087,max_scale,,
+"Cora, standard Linear",5,Linear + C&S,87.735,1.726,88.835,0.223,4.857,91.087,max_scale,,
+"Cora, standard Linear",10,Linear,75.249,1.835,75.786,0.223,4.857,91.087,max_scale,,
+"Cora, standard Linear",10,Linear + C,77.569,1.739,77.227,0.223,4.857,91.087,max_scale,,
+"Cora, standard Linear",10,Linear + C&S,87.882,1.597,88.835,0.223,4.857,91.087,max_scale,,
+Texas,,MLP,67.632,7.752,75.833,,,,no_smoothing,paper grid,0.0
+Texas,,MLP + S,61.579,8.877,70.833,,,,no_smoothing,paper grid,0.0
+Texas,,MLP + C&S,62.105,9.464,70.556,,,,no_smoothing,paper grid,0.0
+Texas,,MLP,67.632,7.752,75.833,,,,no_smoothing,with alpha 0,0.0
+Texas,,MLP + S,67.632,7.752,75.833,,,,no_smoothing,with alpha 0,100.0
+Texas,,MLP + C&S,69.211,8.509,75.278,,,,no_smoothing,with alpha 0,90.0
+Chameleon,,MLP,50.68,2.796,51.78,,,,no_smoothing,paper grid,0.0
+Chameleon,,MLP + S,51.382,2.396,52.11,,,,no_smoothing,paper grid,0.0
+Chameleon,,MLP + C&S,51.667,2.642,52.659,,,,no_smoothing,paper grid,0.0
+Chameleon,,MLP,50.68,2.796,51.78,,,,no_smoothing,with alpha 0,0.0
+Chameleon,,MLP + S,51.425,2.434,52.396,,,,no_smoothing,with alpha 0,50.0
+Chameleon,,MLP + C&S,51.667,2.414,52.769,,,,no_smoothing,with alpha 0,30.0

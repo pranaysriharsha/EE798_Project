@@ -1,0 +1,48 @@
+Cora done (total 37 s)
+Citeseer done (total 111 s)
+Texas done (total 122 s)
+Chameleon done (total 165 s)
+
+E6: test nodes pooled over 5 splits; accuracy in %; fixed/broken = C&S vs MLP
+
+By degree
+  dataset group  n_nodes  mlp_acc  s_acc  cs_acc  fixed  broken
+Chameleon     1      114     43.0   47.4    48.2     10       4
+Chameleon   2-3      201     38.8   39.8    43.3     12       3
+Chameleon   4-7      496     52.8   54.8    53.6     25      21
+Chameleon    8+     1469     52.5   51.7    50.8     98     123
+ Citeseer     0       35     37.1   37.1    37.1      0       0
+ Citeseer     1     1288     65.4   70.9    70.9    135      64
+ Citeseer   2-3     1232     68.5   76.9    76.9    147      43
+ Citeseer   4-7      569     74.2   81.7    81.7     56      13
+ Citeseer    8+      206     82.5   83.5    83.5     17      15
+     Cora     1      482     73.0   82.4    82.4     63      18
+     Cora   2-3     1177     70.8   87.0    87.0    223      32
+     Cora   4-7      868     74.1   89.2    89.2    143      12
+     Cora    8+      188     71.3   88.8    88.8     37       4
+    Texas     1       70     67.1   60.0    62.9      2       5
+    Texas   2-3       92     73.9   69.6    69.6      4       8
+    Texas   4-7       21     38.1   33.3    33.3      1       2
+    Texas    8+        7     28.6   28.6    28.6      0       0
+
+By local_homophily
+  dataset    group  n_nodes  mlp_acc  s_acc  cs_acc  fixed  broken
+Chameleon   0-0.25     1221     48.4   43.9    41.5     39     123
+Chameleon 0.25-0.5      689     52.7   55.0    55.4     45      26
+Chameleon 0.5-0.75      256     55.5   66.0    70.7     40       1
+Chameleon   0.75-1      114     56.1   71.9    73.7     21       1
+ Citeseer   0-0.25      627     36.5   22.8    22.8     15     101
+ Citeseer 0.25-0.5      145     42.1   42.8    42.8     15      14
+ Citeseer 0.5-0.75      474     64.1   77.0    77.0     70       9
+ Citeseer   0.75-1     2049     82.2   94.1    94.1    255      11
+ Citeseer isolated       35     37.1   37.1    37.1      0       0
+     Cora   0-0.25      202     47.0   27.2    27.2      4      44
+     Cora 0.25-0.5      137     40.9   45.3    45.3     17      11
+     Cora 0.5-0.75      341     60.4   80.1    80.1     74       7
+     Cora   0.75-1     2035     78.9   96.9    96.9    371       4
+    Texas   0-0.25      167     66.5   59.3    60.5      4      14
+    Texas 0.25-0.5        4     75.0   75.0    75.0      1       1
+    Texas 0.5-0.75       14     71.4   85.7    85.7      2       0
+    Texas   0.75-1        5     20.0   20.0    20.0      0       0
+
+Total time 165 s

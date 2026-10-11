@@ -1,0 +1,1744 @@
+dataset,stage,node,label,pred,x,y,outcome
+Cora,Z,1906,4,4,-10.314844,22.914448,stayed right
+Cora,Z,1153,4,4,-7.478991,25.92467,stayed right
+Cora,Z,1330,0,0,-22.37812,7.384459,stayed right
+Cora,Z,2227,5,0,-6.898845,16.592264,fixed
+Cora,Z,621,5,5,-16.902615,-7.2676263,stayed right
+Cora,Z,685,1,3,13.844215,-3.8372104,stayed wrong
+Cora,Z,1460,3,3,23.720291,1.8895557,stayed right
+Cora,Z,1442,3,2,-0.0072341184,-25.743118,fixed
+Cora,Z,2088,1,4,-10.459272,24.77324,stayed wrong
+Cora,Z,911,4,4,-5.181663,19.77402,stayed right
+Cora,Z,122,6,6,1.6139392,15.07939,stayed right
+Cora,Z,2660,4,3,17.566368,2.9012017,stayed wrong
+Cora,Z,1484,4,4,-6.563608,20.080502,stayed right
+Cora,Z,551,6,5,-16.81915,-9.395914,stayed wrong
+Cora,Z,1570,3,3,14.989099,-1.1668489,stayed right
+Cora,Z,226,3,3,15.181048,0.06604076,stayed right
+Cora,Z,1098,3,3,27.327692,4.0106926,stayed right
+Cora,Z,473,3,4,-10.829254,25.457365,stayed wrong
+Cora,Z,847,6,0,-23.175968,7.449452,stayed wrong
+Cora,Z,252,5,2,-0.66204035,-26.525518,stayed wrong
+Cora,Z,1198,0,3,27.085989,1.7402222,fixed
+Cora,Z,466,2,2,-3.8639069,-28.042988,stayed right
+Cora,Z,1748,2,2,-0.28598773,-24.867598,stayed right
+Cora,Z,70,5,5,-16.041191,-4.0551705,stayed right
+Cora,Z,1769,1,1,19.0735,-23.996155,stayed right
+Cora,Z,1111,4,3,15.681089,1.7387285,stayed wrong
+Cora,Z,53,2,2,-4.7040615,-26.46709,stayed right
+Cora,Z,302,1,1,19.91442,-23.072016,stayed right
+Cora,Z,778,6,6,2.3782215,15.737431,stayed right
+Cora,Z,2431,4,3,10.642768,-0.81992275,fixed
+Cora,Z,1046,4,4,-7.117095,25.966164,stayed right
+Cora,Z,938,3,3,27.72224,5.3022647,stayed right
+Cora,Z,1338,5,5,-14.289245,-9.946758,stayed right
+Cora,Z,574,3,3,19.569277,-0.20236954,stayed right
+Cora,Z,2481,5,5,-14.776465,-10.22061,stayed right
+Cora,Z,536,2,2,-1.0722339,-27.213573,stayed right
+Cora,Z,1197,1,3,10.414846,-5.2163563,fixed
+Cora,Z,1858,3,3,14.019005,-0.4072344,stayed right
+Cora,Z,390,3,3,17.06759,3.3428066,stayed right
+Cora,Z,770,3,3,23.515213,3.4900732,stayed right
+Cora,Z,2626,3,3,28.55923,4.4834046,stayed right
+Cora,Z,1515,0,0,-28.783724,5.891823,stayed right
+Cora,Z,1020,3,3,26.600798,2.9906993,stayed right
+Cora,Z,1655,0,0,-27.937624,8.059809,stayed right
+Cora,Z,246,2,2,-4.549698,-27.044125,stayed right
+Cora,Z,962,3,3,27.741615,5.316644,stayed right
+Cora,Z,981,3,4,-6.671701,17.056458,fixed
+Cora,Z,2582,3,4,-4.492401,18.812723,fixed
+Cora,Z,54,1,1,18.986057,-20.795713,broken
+Cora,Z,799,3,3,15.726929,1.7447147,stayed right
+Cora,Z,1948,3,3,27.728828,4.2984905,stayed right
+Cora,Z,1929,3,3,15.68925,1.7831234,stayed right
+Cora,Z,32,0,3,15.794059,1.7327553,stayed wrong
+Cora,Z,1984,4,6,1.7414935,15.7882185,fixed
+Cora,Z,2635,3,3,28.629923,4.71852,stayed right
+Cora,Z,2015,6,5,-15.932393,-4.1584125,stayed wrong
+Cora,Z,1113,5,5,-14.302791,-9.955239,stayed right
+Cora,Z,172,3,3,17.372929,1.1204748,stayed right
+Cora,Z,444,4,4,-7.5243363,27.020802,stayed right
+Cora,Z,2457,6,6,2.6131196,15.301543,stayed right
+Cora,Z,1172,0,3,10.617726,-3.861131,stayed wrong
+Cora,Z,1856,1,1,19.903318,-23.06178,stayed right
+Cora,Z,1693,0,0,-28.381432,6.727821,stayed right
+Cora,Z,762,2,2,-4.8359485,-27.59452,stayed right
+Cora,Z,2402,1,3,23.67742,3.7178,stayed wrong
+Cora,Z,803,5,5,-15.810486,-9.599215,stayed right
+Cora,Z,1223,3,3,28.567228,5.093954,stayed right
+Cora,Z,1908,4,0,-25.311764,8.678905,stayed wrong
+Cora,Z,141,3,4,-10.612434,26.162731,fixed
+Cora,Z,600,6,4,-9.74157,27.788618,fixed
+Cora,Z,1276,5,5,-15.266947,-9.247808,stayed right
+Cora,Z,652,4,4,-7.8234577,26.269209,stayed right
+Cora,Z,1447,3,3,27.846186,1.4151167,stayed right
+Cora,Z,1958,5,5,-14.166917,-9.530981,stayed right
+Cora,Z,1716,2,5,-13.588026,-4.687386,fixed
+Cora,Z,1180,1,1,19.769264,-22.929716,stayed right
+Cora,Z,1557,2,2,-1.7447366,-26.916044,stayed right
+Cora,Z,1269,5,5,-14.526172,-9.021445,stayed right
+Cora,Z,1319,3,0,-24.606993,8.379498,stayed wrong
+Cora,Z,939,6,6,-1.4226946,16.495497,stayed right
+Cora,Z,1730,2,2,-3.838486,-27.673687,stayed right
+Cora,Z,2605,3,3,27.00316,1.701282,stayed right
+Cora,Z,1031,3,3,27.544466,5.1124396,stayed right
+Cora,Z,1229,2,2,-0.7219312,-26.65506,stayed right
+Cora,Z,2204,3,3,20.335619,-0.56148946,stayed right
+Cora,Z,2389,2,2,-4.456939,-25.667953,stayed right
+Cora,Z,321,3,0,-23.290005,7.5344987,fixed
+Cora,Z,2517,5,5,-15.999391,-9.7478895,stayed right
+Cora,Z,370,5,5,-14.27309,-9.930366,stayed right
+Cora,Z,1936,3,3,27.89824,2.5288296,stayed right
+Cora,Z,987,3,3,10.023402,-3.583521,broken
+Cora,Z,1555,5,5,-16.417704,-6.5991898,stayed right
+Cora,Z,1593,6,6,2.460454,14.956041,stayed right
+Cora,Z,868,3,3,17.209404,3.4222326,stayed right
+Cora,Z,38,4,4,-7.6950603,21.302624,stayed right
+Cora,Z,1393,3,4,-8.7531,22.009716,stayed wrong
+Cora,Z,1537,5,5,-14.166971,-9.529422,stayed right
+Cora,Z,1155,2,2,-0.7637821,-26.5908,stayed right
+Cora,Z,2509,3,3,20.514818,-0.40509525,stayed right
+Cora,Z,1236,6,6,2.6118379,15.30647,stayed right
+Cora,Z,1674,6,6,1.8856664,15.384014,stayed right
+Cora,Z,148,4,4,-7.4326625,26.984598,stayed right
+Cora,Z,809,0,5,-16.613142,-8.150812,stayed wrong
+Cora,Z,2501,3,3,27.654839,3.3458633,stayed right
+Cora,Z,2073,0,3,10.124738,-3.5487235,fixed
+Cora,Z,642,0,0,-23.329031,7.2803144,stayed right
+Cora,Z,2370,3,3,26.778587,2.692117,stayed right
+Cora,Z,645,5,5,-15.571426,-10.051784,stayed right
+Cora,Z,840,5,5,-15.196292,-9.883225,stayed right
+Cora,Z,968,1,2,-2.6655645,-26.031845,stayed wrong
+Cora,Z,2070,0,0,-28.852468,6.136987,stayed right
+Cora,Z,1192,3,4,-7.4837384,25.926287,fixed
+Cora,Z,2209,6,3,20.529747,-0.28106686,fixed
+Cora,Z,1253,1,1,19.834059,-23.802303,stayed right
+Cora,Z,742,2,5,-14.240223,-3.163631,fixed
+Cora,Z,2219,0,3,13.353322,-3.037068,fixed
+Cora,Z,6,0,0,-28.843378,6.409244,stayed right
+Cora,Z,2293,0,0,-27.721869,6.532425,stayed right
+Cora,Z,637,3,4,-6.848689,16.743658,fixed
+Cora,Z,419,5,5,-14.887793,-10.193709,stayed right
+Cora,Z,1883,5,5,-15.256347,-9.51088,stayed right
+Cora,Z,1523,0,0,-27.94521,5.7406793,stayed right
+Cora,Z,1473,3,3,18.12064,2.554069,stayed right
+Cora,Z,232,3,3,27.531555,4.7598853,stayed right
+Cora,Z,989,0,0,-21.336899,5.267607,broken
+Cora,Z,530,0,0,-27.861132,7.204281,broken
+Cora,Z,2175,2,3,11.445027,-5.069023,stayed wrong
+Cora,Z,319,3,2,0.25651643,-24.740606,stayed wrong
+Cora,Z,1445,3,3,28.24049,3.989556,stayed right
+Cora,Z,146,0,0,-28.617912,5.7346015,stayed right
+Cora,Z,452,1,1,17.352694,-20.4008,stayed right
+Cora,Z,1448,1,1,18.791159,-23.678959,stayed right
+Cora,Z,1647,6,6,2.3584023,15.74909,stayed right
+Cora,Z,999,2,2,-3.9238598,-27.584452,stayed right
+Cora,Z,2144,1,1,19.94859,-23.392303,stayed right
+Cora,Z,662,3,3,12.726456,-3.0633824,stayed right
+Cora,Z,887,1,1,18.709309,-23.347301,stayed right
+Cora,Z,1677,5,3,14.650161,-1.7572421,stayed wrong
+Cora,Z,2540,3,3,28.195398,5.3617325,stayed right
+Cora,Z,1138,4,4,-6.9343586,26.126352,stayed right
+Cora,Z,565,2,5,-13.635884,-4.636719,fixed
+Cora,Z,2627,2,2,-4.568103,-28.199898,stayed right
+Cora,Z,103,1,1,19.5453,-24.00565,stayed right
+Cora,Z,320,4,3,11.80582,-2.9278347,stayed wrong
+Cora,Z,2361,3,3,27.443583,4.811103,stayed right
+Cora,Z,2244,3,3,28.56508,5.091894,stayed right
+Cora,Z,381,4,4,-6.938161,26.920534,stayed right
+Cora,Z,2545,1,1,19.84929,-23.629393,stayed right
+Cora,Z,532,3,3,27.834635,2.4138699,stayed right
+Cora,Z,487,1,3,13.87777,-3.8187208,fixed
+Cora,Z,1578,5,0,-27.738941,7.0139675,fixed
+Cora,Z,1817,3,3,23.676836,2.81041,stayed right
+Cora,Z,139,1,1,19.35791,-24.019096,stayed right
+Cora,Z,132,5,5,-16.86939,-8.875804,stayed right
+Cora,Z,1437,4,4,-10.650777,23.577625,stayed right
+Cora,Z,27,3,3,24.416672,4.9606338,stayed right
+Cora,Z,2296,3,3,28.337948,3.9882941,stayed right
+Cora,Z,1193,1,1,19.372461,-23.92624,stayed right
+Cora,Z,82,4,4,-10.660339,26.08146,stayed right
+Cora,Z,114,5,5,-14.413623,-4.3207088,stayed right
+Cora,Z,2072,0,0,-24.687384,8.457627,stayed right
+Cora,Z,1639,4,4,-8.680467,28.028309,stayed right
+Cora,Z,663,6,6,1.6816579,15.000792,stayed right
+Cora,Z,1009,1,4,-4.4877567,17.624332,fixed
+Cora,Z,2060,5,5,-14.836034,-9.636084,stayed right
+Cora,Z,2369,3,3,23.814047,1.6232377,stayed right
+Cora,Z,1423,3,3,13.4881935,-2.2724063,stayed right
+Cora,Z,149,0,4,-2.6550272,17.115963,fixed
+Cora,Z,2190,6,5,-16.360998,-6.5885887,stayed wrong
+Cora,Z,752,2,3,18.316006,2.3830123,fixed
+Cora,Z,2518,4,4,-7.2027297,25.928036,stayed right
+Cora,Z,458,5,5,-14.807707,-9.641675,stayed right
+Cora,Z,1486,2,3,13.385321,-2.390265,fixed
+Cora,Z,569,2,2,0.30865437,-24.063278,stayed right
+Cora,Z,748,2,2,-0.24552028,-24.04349,stayed right
+Cora,Z,526,2,2,-4.3430004,-27.081913,stayed right
+Cora,Z,1496,3,3,27.17357,1.7029407,stayed right
+Cora,Z,468,5,5,-15.746604,-5.87464,stayed right
+Cora,Z,2297,4,4,-8.935852,22.196016,stayed right
+Cora,Z,2610,3,3,27.544195,5.127198,stayed right
+Cora,Z,2473,4,4,-7.860765,26.60252,stayed right
+Cora,Z,2591,1,1,19.35938,-22.856457,stayed right
+Cora,Z,2220,2,2,-4.7744236,-27.225632,stayed right
+Cora,Z,1297,3,3,28.164444,5.371474,stayed right
+Cora,Z,2674,4,3,8.799411,-5.3079333,fixed
+Cora,Z,2268,0,4,-8.669489,27.974436,stayed wrong
+Cora,Z,1355,3,3,21.766018,-0.6667601,stayed right
+Cora,Z,201,3,3,19.916988,0.9183793,stayed right
+Cora,Z,979,3,1,18.373606,-21.486065,fixed
+Cora,Z,1430,2,2,-2.0424602,-26.912947,stayed right
+Cora,Z,1070,2,4,-5.921943,19.856506,stayed wrong
+Cora,Z,19,3,3,19.076578,0.6609555,stayed right
+Cora,Z,717,0,0,-26.198153,8.4272785,stayed right
+Cora,Z,548,1,5,-14.775078,-5.0872507,stayed wrong
+Cora,Z,848,2,2,-4.317041,-25.558979,stayed right
+Cora,Z,50,5,0,-21.47597,5.359984,fixed
+Cora,Z,945,1,2,-2.5004783,-22.044104,stayed wrong
+Cora,Z,1075,3,3,10.777627,-0.82637006,stayed right
+Cora,Z,1353,5,2,0.8834386,-24.50532,fixed
+Cora,Z,1104,0,3,10.635314,-0.80166036,fixed
+Cora,Z,524,2,0,-24.433645,7.587554,fixed
+Cora,Z,76,5,0,-25.36907,7.899481,stayed wrong
+Cora,Z,214,0,0,-27.799435,6.4750104,stayed right
+Cora,Z,1820,3,3,24.207987,1.0364277,stayed right
+Cora,Z,2341,4,4,-6.471958,19.06968,broken
+Cora,Z,2485,5,5,-14.739829,-5.2666655,broken
+Cora,Z,1074,6,6,2.6131196,15.301543,stayed right
+Cora,Z,2511,0,1,19.410604,-22.817581,fixed
+Cora,Z,362,4,4,-7.892706,26.801683,stayed right
+Cora,Z,2633,3,3,28.135937,4.6520705,stayed right
+Cora,Z,937,1,1,19.389467,-22.812227,stayed right
+Cora,Z,1412,2,2,-2.8787882,-25.881598,stayed right
+Cora,Z,2054,0,0,-26.550146,8.394905,stayed right
+Cora,Z,401,3,3,12.32404,-3.7887712,stayed right
+Cora,Z,26,6,6,1.9352024,14.800043,stayed right
+Cora,Z,113,5,5,-16.312098,-6.558173,stayed right
+Cora,Z,2406,3,3,27.478159,4.668713,broken
+Cora,Z,1242,3,3,19.150555,2.891969,stayed right
+Cora,Z,1112,4,4,-6.933298,26.909225,stayed right
+Cora,Z,661,5,3,12.89379,-3.0729752,fixed
+Cora,Z,1251,1,3,11.220769,-5.2271724,fixed
+Cora,Z,1300,3,3,28.505203,2.1191545,stayed right
+Cora,Z,1034,2,2,-1.8565542,-21.844284,stayed right
+Cora,Z,2264,4,4,-7.6859326,27.160038,stayed right
+Cora,Z,597,3,5,-14.294329,-3.5570135,stayed wrong
+Cora,Z,609,2,2,-4.2715125,-28.266277,stayed right
+Cora,Z,1401,4,4,-5.1429915,19.967468,stayed right
+Cora,Z,514,5,6,0.41568333,15.74713,fixed
+Cora,Z,2082,1,1,18.728422,-23.337734,stayed right
+Cora,Z,969,2,2,-3.461188,-25.662188,stayed right
+Cora,Z,513,2,2,-4.125839,-27.321104,stayed right
+Cora,Z,1293,0,0,-25.747337,8.725761,stayed right
+Cora,Z,862,4,2,8.803987,-5.697754,stayed wrong
+Cora,Z,2138,3,4,-5.0543227,18.284248,fixed
+Cora,Z,197,3,3,28.085464,2.54305,stayed right
+Cora,Z,882,2,1,18.914183,-23.171347,fixed
+Cora,Z,2576,0,0,-26.011509,7.4586997,stayed right
+Cora,Z,2371,3,3,25.134516,5.7715735,stayed right
+Cora,Z,2259,4,4,-9.053345,28.203762,stayed right
+Cora,Z,2051,0,0,-21.136553,5.1342573,stayed right
+Cora,Z,1261,4,4,-6.9365497,26.915066,stayed right
+Cora,Z,1086,3,0,-6.8701267,16.490294,fixed
+Cora,Z,2086,1,1,19.29059,-23.274042,stayed right
+Cora,Z,159,3,3,23.714596,-0.4272826,stayed right
+Cora,Z,2656,2,2,-0.4061286,-25.98356,stayed right
+Cora,Z,1926,0,0,-24.066725,6.550255,stayed right
+Cora,Z,1178,4,4,-6.844615,16.657236,stayed right
+Cora,Z,566,3,3,18.858608,2.7330215,stayed right
+Cora,Z,1187,0,3,13.097068,-3.145864,fixed
+Cora,Z,2083,2,2,-0.09452679,-23.335033,stayed right
+Cora,Z,2670,4,4,-7.8223314,26.261099,stayed right
+Cora,Z,1685,2,2,-4.2696843,-28.267118,stayed right
+Cora,Z,126,1,1,18.412235,-22.25878,stayed right
+Cora,Z,2659,3,3,15.942737,1.6878483,stayed right
+Cora,Z,622,3,3,23.11102,3.6548429,stayed right
+Cora,Z,2598,1,1,18.723677,-20.82751,stayed right
+Cora,Z,1409,5,5,-14.41254,-10.061156,stayed right
+Cora,Z,251,3,3,23.528574,-0.5966525,stayed right
+Cora,Z,485,0,0,-27.409948,8.049785,stayed right
+Cora,Z,2202,0,0,-28.62291,5.7606,stayed right
+Cora,Z,2440,2,5,-14.260944,-3.4706557,fixed
+Cora,Z,379,5,5,-16.619831,-8.209195,stayed right
+Cora,Z,1805,1,5,-16.335938,-7.4007263,fixed
+Cora,Z,125,5,5,-14.360051,-9.104728,stayed right
+Cora,Z,1398,2,2,-3.8060875,-27.89669,stayed right
+Cora,Z,1147,3,3,23.217045,3.2362707,stayed right
+Cora,Z,2450,2,2,-4.8125772,-28.092123,stayed right
+Cora,Z,1366,4,4,-7.4281907,26.769865,stayed right
+Cora,Z,996,4,4,-10.138983,27.712118,stayed right
+Cora,Z,1824,5,5,-15.182649,-10.075848,stayed right
+Cora,Z,698,4,0,-28.443102,5.615718,fixed
+Cora,Z,693,0,0,-27.709679,5.909957,stayed right
+Cora,Z,683,1,2,0.30223018,-25.047873,stayed wrong
+Cora,Z,1747,2,2,-1.868804,-26.93398,stayed right
+Cora,Z,2351,4,4,-10.408716,24.804493,stayed right
+Cora,Z,1963,5,5,-15.267475,-6.6958547,stayed right
+Cora,Z,1594,5,0,-26.508913,8.703847,stayed wrong
+Cora,Z,441,5,0,-23.27055,6.3239026,fixed
+Cora,Z,137,1,1,19.94859,-23.392303,stayed right
+Cora,Z,1923,0,4,-6.8008585,16.95665,fixed
+Cora,Z,145,6,3,15.296017,-1.7393477,fixed
+Cora,Z,2071,2,2,-2.8711169,-25.720812,broken
+Cora,Z,712,6,6,0.76773626,15.659177,stayed right
+Cora,Z,855,3,3,12.73683,-1.0955275,stayed right
+Cora,Z,2387,4,4,-7.926862,21.55779,stayed right
+Cora,Z,2272,5,6,2.1720738,14.799881,fixed
+Cora,Z,303,1,1,19.293688,-23.284233,stayed right
+Cora,Z,1403,3,2,-1.8878024,-22.03796,fixed
+Cora,Z,2429,1,1,18.040457,-21.226734,broken
+Cora,Z,300,5,4,-5.3346667,18.558573,stayed wrong
+Cora,Z,2145,1,1,18.660957,-21.764294,stayed right
+Cora,Z,584,4,2,-1.4195971,-22.520393,fixed
+Cora,Z,68,2,5,-15.6804695,-5.0401034,fixed
+Cora,Z,282,5,5,-14.755559,-10.223711,stayed right
+Cora,Z,1130,3,3,24.964247,5.676318,stayed right
+Cora,Z,328,2,2,-4.4149632,-27.543585,stayed right
+Cora,Z,2638,6,6,0.59457326,15.752882,stayed right
+Cora,Z,699,3,1,18.48234,-22.40524,stayed wrong
+Cora,Z,1429,4,4,-9.16037,28.22403,stayed right
+Cora,Z,2616,2,2,-2.2855682,-21.982643,stayed right
+Cora,Z,575,3,0,-24.238773,6.861946,fixed
+Cora,Z,119,5,5,-14.338042,-9.124301,stayed right
+Cora,Z,1357,0,0,-25.775362,7.380999,stayed right
+Cora,Z,1025,0,4,-6.8101325,18.390045,fixed
+Cora,Z,355,2,2,-1.8086727,-26.595957,stayed right
+Cora,Z,2410,3,3,15.002635,-2.478251,stayed right
+Cora,Z,2569,3,3,17.376232,1.0939606,stayed right
+Cora,Z,523,4,4,-10.020225,22.637403,stayed right
+Cora,Z,714,4,3,23.018562,3.849179,fixed
+Cora,Z,199,4,3,13.637489,-0.4773802,stayed wrong
+Cora,Z,2155,0,0,-25.806808,8.632537,stayed right
+Cora,Z,1307,4,4,-7.190404,25.933441,stayed right
+Cora,Z,2074,0,0,-28.345457,6.494103,stayed right
+Cora,Z,1032,5,5,-14.820281,-9.029005,stayed right
+Cora,Z,2063,3,3,23.827692,-0.18871227,stayed right
+Cora,Z,1008,0,0,-28.479263,6.7948327,stayed right
+Cora,Z,245,4,3,15.179885,0.31015798,fixed
+Cora,Z,1871,3,3,26.877422,2.3188097,stayed right
+Cora,Z,1987,3,3,17.620617,1.1559438,stayed right
+Cora,Z,656,1,0,-28.849516,6.3895288,fixed
+Cora,Z,852,0,5,-13.437894,-4.4032607,stayed wrong
+Cora,Z,965,0,0,-28.216091,5.606569,stayed right
+Cora,Z,1803,0,0,-28.755587,6.5410237,stayed right
+Cora,Z,1687,2,5,-14.533895,-4.496976,fixed
+Cora,Z,1345,2,3,13.485116,-2.3053515,fixed
+Cora,Z,59,2,2,-2.7716396,-25.875639,stayed right
+Cora,Z,1575,3,6,1.3059243,15.474855,stayed wrong
+Cora,Z,292,0,3,23.364418,-0.82628393,fixed
+Cora,Z,165,3,3,24.603561,5.2658906,stayed right
+Cora,Z,90,2,2,-4.841392,-27.39061,stayed right
+Cora,Z,905,2,2,-4.8189387,-28.072826,stayed right
+Cora,Z,1535,0,0,-21.15279,5.182089,stayed right
+Cora,Z,312,2,4,-10.764494,24.004889,fixed
+Cora,Z,730,0,4,-6.784004,18.166613,stayed wrong
+Cora,Z,1778,1,1,18.90592,-23.920368,stayed right
+Cora,Z,1090,3,3,27.906786,4.3889446,stayed right
+Cora,Z,704,2,1,17.306171,-20.349384,fixed
+Cora,Z,128,5,5,-16.603977,-9.911574,stayed right
+Cora,Z,618,3,3,8.895351,-5.547749,stayed right
+Cora,Z,2240,4,4,-9.763005,22.50325,stayed right
+Cora,Z,1891,4,4,-10.014522,22.633347,stayed right
+Cora,Z,904,5,5,-14.774863,-10.220052,stayed right
+Cora,Z,680,0,3,20.912876,-0.29172653,fixed
+Cora,Z,1066,3,3,24.504398,0.9642676,stayed right
+Cora,Z,2249,4,4,-6.555603,20.064188,stayed right
+Cora,Z,1889,4,3,15.139659,0.21188225,stayed wrong
+Cora,Z,1796,4,4,-9.248994,28.213888,stayed right
+Cora,Z,2214,3,3,18.30941,2.7811408,stayed right
+Cora,Z,386,3,3,10.588966,-0.79484767,stayed right
+Cora,Z,1233,2,2,-0.84719974,-24.60364,stayed right
+Cora,Z,755,5,0,-22.63738,7.2091675,stayed wrong
+Cora,Z,504,6,5,-14.969138,-3.8854504,fixed
+Cora,Z,557,2,2,-0.12176798,-23.593437,stayed right
+Cora,Z,2125,3,3,23.68957,1.0715392,stayed right
+Cora,Z,2164,6,6,2.33785,14.909753,stayed right
+Cora,Z,1644,0,0,-27.69676,5.955077,stayed right
+Cora,Z,1427,2,2,-4.8721266,-28.004055,stayed right
+Cora,Z,178,3,3,23.122974,-1.2249106,stayed right
+Cora,Z,1819,3,3,18.957771,0.46395478,stayed right
+Cora,Z,2474,4,4,-6.930738,26.903688,stayed right
+Cora,Z,79,0,4,-5.3210783,19.036158,stayed wrong
+Cora,Z,899,3,4,-6.53924,20.050198,fixed
+Cora,Z,794,0,4,-10.175153,22.769773,stayed wrong
+Cora,Z,2097,0,6,-0.30668938,16.107473,stayed wrong
+Cora,Z,342,1,6,1.9575168,15.725908,stayed wrong
+Cora,Z,1559,4,4,-6.5646777,20.08272,stayed right
+Cora,Z,675,4,4,-7.9088383,26.889359,stayed right
+Cora,Z,1621,3,4,-10.192371,22.77338,fixed
+Cora,Z,2129,3,0,-28.084166,6.317324,fixed
+Cora,Z,1286,4,0,-24.320549,7.496276,stayed wrong
+Cora,Z,1920,0,5,-15.293173,-6.7317214,fixed
+Cora,Z,1441,5,5,-13.108636,-4.4060326,stayed right
+Cora,Z,2012,3,3,23.5856,-0.5405339,stayed right
+Cora,Z,2119,3,4,-7.442484,26.680977,stayed wrong
+Cora,Z,186,0,0,-27.710506,5.914687,stayed right
+Cora,Z,2503,2,2,-3.9459934,-27.455036,stayed right
+Cora,Z,1372,6,6,1.914945,14.80677,stayed right
+Cora,Z,1870,3,3,12.700484,-0.8615901,stayed right
+Cora,Z,1565,2,5,-16.256208,-7.1480117,fixed
+Cora,Z,2418,0,0,-28.166231,5.6140237,stayed right
+Cora,Z,304,0,2,-0.86482453,-22.931456,stayed wrong
+Cora,Z,500,3,3,15.42759,-0.4560929,stayed right
+Cora,Z,2203,0,0,-28.139027,5.6158113,stayed right
+Cora,Z,1489,2,2,-4.6662107,-28.155552,broken
+Cora,Z,2285,5,5,-14.755292,-9.006116,stayed right
+Cora,Z,1744,2,2,-3.9942787,-28.131327,stayed right
+Cora,Z,432,3,3,13.582675,-3.7891624,stayed right
+Cora,Z,2066,3,3,28.736965,3.2556655,stayed right
+Cora,Z,2632,3,3,25.026476,5.716724,stayed right
+Cora,Z,2039,3,3,18.31146,1.2292647,stayed right
+Cora,Z,774,4,4,-6.447374,19.759531,stayed right
+Cora,Z,2377,1,3,11.348009,-5.122891,stayed wrong
+Cora,Z,2672,4,4,-6.7757277,26.432753,stayed right
+Cora,Z,1388,0,0,-28.840584,6.4150877,stayed right
+Cora,Z,211,0,5,-16.779757,-7.2544746,fixed
+Cora,Z,679,0,0,-27.470406,7.881757,stayed right
+Cora,Z,1981,0,0,-27.983194,7.0218663,stayed right
+Cora,Z,318,1,1,18.755762,-23.685493,stayed right
+Cora,Z,2308,3,3,24.943798,5.659917,stayed right
+Cora,Z,2064,3,3,27.856602,4.339414,stayed right
+Cora,Z,1795,4,4,-7.8182726,26.263985,stayed right
+Cora,Z,771,0,3,18.325125,0.998571,fixed
+Cora,Z,1356,3,3,22.04529,-0.78220904,stayed right
+Cora,Z,2434,4,6,1.8267564,15.069698,fixed
+Cora,Z,1957,3,4,-7.9797378,21.6286,fixed
+Cora,Z,1231,3,3,18.942566,0.42823765,stayed right
+Cora,Z,2400,4,4,-6.782061,26.569439,stayed right
+Cora,Z,1436,5,4,-10.702551,25.928808,stayed wrong
+Cora,Z,1703,4,4,-9.034308,28.206203,stayed right
+Cora,Z,481,2,2,-1.1402966,-27.124968,stayed right
+Cora,Z,424,5,3,28.599783,4.2790627,stayed wrong
+Cora,Z,2076,3,3,26.601166,2.9906697,stayed right
+Cora,Z,1998,5,3,15.426086,-1.3790591,stayed wrong
+Cora,Z,2679,4,4,-7.713733,26.0723,stayed right
+Cora,Z,606,0,3,10.55922,-3.660856,stayed wrong
+Cora,Z,1438,3,3,27.971563,5.3620815,stayed right
+Cora,Z,1364,3,3,23.657963,3.8783238,stayed right
+Cora,Z,1733,2,2,-2.0135717,-21.43878,stayed right
+Cora,Z,1203,0,5,-16.904972,-8.869309,stayed wrong
+Cora,Z,1755,2,2,-4.90696,-27.594242,stayed right
+Cora,Z,433,3,3,24.025455,1.1370652,stayed right
+Cora,Z,2224,4,6,2.5301049,15.537078,fixed
+Cora,Z,2213,3,4,-7.8825836,22.086277,fixed
+Cora,Z,2340,3,3,28.050524,5.297651,stayed right
+Cora,Z,326,2,2,0.22386718,-25.094528,stayed right
+Cora,Z,1789,1,1,19.231588,-23.97086,stayed right
+Cora,Z,2245,3,3,24.12242,4.363897,stayed right
+Cora,Z,2433,2,4,-8.01059,21.574665,stayed wrong
+Cora,Z,846,3,3,23.027742,-1.0093096,stayed right
+Cora,Z,1560,1,1,19.732908,-23.881893,stayed right
+Cora,Z,1361,2,2,-0.025684064,-25.05031,stayed right
+Cora,Z,55,4,4,-7.650983,27.955605,broken
+Cora,Z,2486,3,3,28.090935,3.994694,stayed right
+Cora,Z,2512,2,2,-1.350616,-22.53439,stayed right
+Cora,Z,1329,3,4,-7.9754577,21.572973,fixed
+Cora,Z,2451,2,2,-0.719627,-24.463783,stayed right
+Cora,Z,2273,5,5,-15.254307,-9.339168,stayed right
+Cora,Z,1206,4,4,-6.837741,26.222515,stayed right
+Cora,Z,893,4,4,-10.525353,24.594044,stayed right
+Cora,Z,1701,3,3,16.8479,3.126664,stayed right
+Cora,Z,1628,0,0,-26.050398,8.539771,stayed right
+Cora,Z,1935,3,3,12.609546,-0.8989527,stayed right
+Cora,Z,1983,0,5,-15.816651,-4.3908033,fixed
+Cora,Z,1218,0,0,-28.357952,6.1679363,stayed right
+Cora,Z,229,3,2,-1.7621834,-21.976374,fixed
+Cora,Z,749,4,0,-27.373373,7.971091,stayed wrong
+Cora,Z,902,2,2,-4.1072717,-27.064793,stayed right
+Cora,Z,2122,4,4,-10.1178465,27.304253,stayed right
+Cora,Z,2168,1,2,-4.634258,-26.614164,stayed wrong
+Cora,Z,476,1,1,19.843945,-23.649296,stayed right
+Cora,Z,1108,3,3,25.007376,5.7084336,stayed right
+Cora,Z,14,3,3,15.374109,-1.3445228,stayed right
+Cora,Z,2533,0,3,23.556969,2.4309464,stayed wrong
+Cora,Z,1342,4,4,-9.303489,22.283241,stayed right
+Cora,Z,1016,3,3,13.996379,-0.40610713,stayed right
+Cora,Z,586,0,0,-28.030615,6.3485,stayed right
+Cora,Z,966,0,0,-27.722206,5.885839,stayed right
+Cora,Z,1106,3,3,18.808878,1.9945709,stayed right
+Cora,Z,1529,4,4,-2.9363737,17.302063,stayed right
+Cora,Z,983,4,4,-7.5671606,21.166718,stayed right
+Cora,Z,1386,3,3,23.956738,4.141174,stayed right
+Cora,Z,1341,0,3,24.030842,1.3182156,stayed wrong
+Cora,Z,1170,6,6,1.7736238,15.772919,stayed right
+Cora,Z,891,6,6,2.3571346,15.752529,stayed right
+Cora,Z,1857,3,3,8.864703,-5.4271603,stayed right
+Cora,Z,2673,4,4,-8.487494,27.7366,stayed right
+Cora,Z,1727,2,2,-5.192077,-26.746485,stayed right
+Cora,Z,397,3,3,22.87503,3.4695268,stayed right
+Cora,Z,707,0,0,-26.202332,8.478969,stayed right
+Cora,Z,1021,4,6,2.2347767,15.770752,stayed wrong
+Cora,Z,86,4,3,20.282951,-1.1851813,stayed wrong
+Cora,Z,359,2,2,-0.31080192,-25.9876,stayed right
+Cora,Z,1760,2,5,-14.606651,-4.785413,fixed
+Cora,Z,1530,4,4,-7.7347965,26.097055,stayed right
+Cora,Z,1158,1,4,-11.035525,24.193758,stayed wrong
+Cora,Z,689,2,2,0.4979532,-25.319231,stayed right
+Cora,Z,1402,6,6,2.460429,14.956025,stayed right
+Cora,Z,1305,2,2,-4.978754,-27.570358,stayed right
+Cora,Z,78,4,4,-11.086481,24.836533,stayed right
+Cora,Z,676,5,5,-14.166904,-9.531572,stayed right
+Cora,Z,543,0,6,1.3393192,15.338608,fixed
+Cora,Z,921,6,6,2.174832,14.797607,stayed right
+Cora,Z,1781,1,1,19.057108,-23.00471,stayed right
+Cora,Z,2093,1,3,15.182913,-2.285123,fixed
+Cora,Z,1470,5,5,-14.8040285,-9.021088,stayed right
+Cora,Z,1595,3,3,20.765305,-0.24806333,stayed right
+Cora,Z,2662,4,4,-6.782061,26.569439,stayed right
+Cora,Z,1451,4,4,-6.8585014,26.182095,stayed right
+Cora,Z,1247,3,3,24.977112,5.681876,stayed right
+Cora,Z,1368,5,5,-15.286637,-9.317563,stayed right
+Cora,Z,1516,2,2,-4.126815,-25.528425,stayed right
+Cora,Z,702,6,0,-26.391068,9.269681,stayed wrong
+Cora,Z,2498,4,1,18.023323,-20.82278,fixed
+Cora,Z,269,3,3,27.558477,4.814081,stayed right
+Cora,Z,411,3,3,20.436571,-0.7155414,stayed right
+Cora,Z,2008,3,3,28.264305,4.6276455,stayed right
+Cora,Z,2675,4,4,-10.204108,27.385054,stayed right
+Cora,Z,1266,4,4,-10.684189,25.94838,stayed right
+Cora,Z,1640,1,1,18.63177,-20.843287,stayed right
+Cora,Z,1249,2,3,20.271585,0.22992472,fixed
+Cora,Z,838,0,0,-28.783754,5.8960605,stayed right
+Cora,Z,2600,3,3,28.57235,4.7206635,stayed right
+Cora,Z,207,3,3,20.83262,-0.2855709,stayed right
+Cora,Z,285,3,3,16.657724,3.099121,stayed right
+Cora,Z,337,2,2,-3.8830686,-28.038593,stayed right
+Cora,Z,786,4,3,11.286682,-0.8753358,stayed wrong
+Cora,Z,105,2,2,-3.8674142,-27.631376,stayed right
+Cora,Z,1015,4,4,-10.637305,26.132898,stayed right
+Cora,Z,953,3,4,-6.213787,19.600769,fixed
+Cora,Z,564,2,2,-4.6164384,-26.53392,stayed right
+Cora,Z,2002,4,3,10.752985,-0.8070883,stayed wrong
+Cora,Z,761,4,4,-7.8069444,28.090292,stayed right
+Cora,Z,2612,2,2,-4.3529334,-27.031187,stayed right
+Cora,Z,1922,0,3,11.513333,-0.9253963,fixed
+Cora,Z,1867,3,3,22.88628,-0.67060506,stayed right
+Cora,Z,41,6,5,-14.242267,-9.283456,fixed
+Cora,Z,2106,1,1,18.772518,-23.662216,stayed right
+Cora,Z,1623,1,1,18.789568,-22.95265,stayed right
+Cora,Z,1184,5,3,19.733786,0.6700319,fixed
+Cora,Z,2497,5,5,-15.675816,-5.803904,stayed right
+Cora,Z,2686,3,3,8.8224,-5.214764,stayed right
+Cora,Z,31,6,6,1.412331,15.766319,broken
+Cora,Z,678,3,4,-4.411982,17.53212,fixed
+Cora,Z,2011,3,3,15.679209,1.9534762,stayed right
+Cora,Z,305,0,0,-28.044615,7.5938473,stayed right
+Cora,Z,604,6,6,-1.5814439,16.58257,stayed right
+Cora,Z,1101,3,3,28.608768,4.98331,stayed right
+Cora,Z,1767,1,1,18.672058,-20.66879,stayed right
+Cora,Z,1737,2,2,-4.269544,-28.267132,stayed right
+Cora,Z,1185,3,3,23.267683,3.5790546,stayed right
+Cora,Z,1704,3,4,-11.138127,24.73415,fixed
+Cora,Z,695,3,0,-22.477491,7.3631988,fixed
+Cora,Z,1959,5,5,-15.384929,-9.909269,stayed right
+Cora,Z,153,1,1,19.76377,-22.926344,stayed right
+Cora,Z,2411,3,3,11.950202,-2.9623199,stayed right
+Cora,Z,2409,2,2,8.783729,-5.7155266,broken
+Cora,Z,352,3,3,28.395782,5.244214,stayed right
+Cora,Z,1119,3,3,17.582216,1.0615753,stayed right
+Cora,Z,2320,3,3,27.436575,4.441973,stayed right
+Cora,Z,1472,3,3,23.895184,0.11431321,stayed right
+Cora,Z,510,3,3,18.81694,2.0510345,stayed right
+Cora,Z,1374,0,0,-24.20159,6.5120935,broken
+Cora,Z,1650,5,5,-14.8913,-9.070096,stayed right
+Cora,after Correct,1906,4,4,-3.8330035,25.647526,stayed right
+Cora,after Correct,1153,4,4,-9.532905,28.59258,stayed right
+Cora,after Correct,1330,0,0,-21.520058,8.570153,stayed right
+Cora,after Correct,2227,5,0,-8.250955,18.096346,fixed
+Cora,after Correct,621,5,5,-19.989763,-7.298281,stayed right
+Cora,after Correct,685,1,3,10.659071,-5.1898866,stayed wrong
+Cora,after Correct,1460,3,3,24.069029,5.9977336,stayed right
+Cora,after Correct,1442,3,2,-1.1049169,-23.923626,fixed
+Cora,after Correct,2088,1,4,-4.562715,27.787949,stayed wrong
+Cora,after Correct,911,4,4,-5.199258,20.104988,stayed right
+Cora,after Correct,122,6,6,-1.9992684,12.508869,stayed right
+Cora,after Correct,2660,4,3,16.164822,-3.899121,stayed wrong
+Cora,after Correct,1484,4,4,-6.1731305,21.200312,stayed right
+Cora,after Correct,551,6,5,-20.495829,-9.347243,stayed wrong
+Cora,after Correct,1570,3,3,12.348827,-2.8142672,stayed right
+Cora,after Correct,226,3,3,13.0391445,-1.7707531,stayed right
+Cora,after Correct,1098,3,3,25.422356,6.9185147,stayed right
+Cora,after Correct,473,3,4,-5.4292197,27.582321,stayed wrong
+Cora,after Correct,847,6,0,-22.352938,8.699508,stayed wrong
+Cora,after Correct,252,5,2,-1.5638707,-24.804897,stayed wrong
+Cora,after Correct,1198,0,3,21.292326,3.227488,fixed
+Cora,after Correct,466,2,2,-6.5595036,-24.483889,stayed right
+Cora,after Correct,1748,2,2,-0.7708143,-23.090733,stayed right
+Cora,after Correct,70,5,5,-18.392221,-4.3027463,stayed right
+Cora,after Correct,1769,1,1,19.501188,-25.30542,stayed right
+Cora,after Correct,1111,4,3,14.591613,-1.0537158,stayed wrong
+Cora,after Correct,53,2,2,-4.87645,-24.102041,stayed right
+Cora,after Correct,302,1,1,20.241203,-25.116337,stayed right
+Cora,after Correct,778,6,6,-1.3706639,11.847996,stayed right
+Cora,after Correct,2431,4,3,8.014281,-1.5306536,fixed
+Cora,after Correct,1046,4,4,-9.1579685,26.654198,stayed right
+Cora,after Correct,938,3,3,20.250809,3.367981,stayed right
+Cora,after Correct,1338,5,5,-18.70403,-10.894641,stayed right
+Cora,after Correct,574,3,3,19.066847,-1.0946683,stayed right
+Cora,after Correct,2481,5,5,-18.507305,-9.638009,stayed right
+Cora,after Correct,536,2,2,-1.8114334,-25.512209,stayed right
+Cora,after Correct,1197,1,3,7.321468,-6.3076296,fixed
+Cora,after Correct,1858,3,3,11.656629,-1.676297,stayed right
+Cora,after Correct,390,3,3,15.324581,-3.499363,stayed right
+Cora,after Correct,770,3,3,25.852327,6.2055445,stayed right
+Cora,after Correct,2626,3,3,23.791811,4.6108637,stayed right
+Cora,after Correct,1515,0,0,-28.073591,7.2780685,stayed right
+Cora,after Correct,1020,3,3,18.683094,3.06498,stayed right
+Cora,after Correct,1655,0,0,-27.255648,9.779181,stayed right
+Cora,after Correct,246,2,2,-5.1796894,-24.031435,stayed right
+Cora,after Correct,962,3,3,19.486311,4.9222054,stayed right
+Cora,after Correct,981,3,4,-7.8148236,18.446894,fixed
+Cora,after Correct,2582,3,4,-5.04181,18.913622,fixed
+Cora,after Correct,54,1,1,19.314518,-22.52286,broken
+Cora,after Correct,799,3,3,14.652267,-1.0341798,stayed right
+Cora,after Correct,1948,3,3,19.739265,5.213516,stayed right
+Cora,after Correct,1929,3,3,14.578879,-1.1284612,stayed right
+Cora,after Correct,32,0,3,14.739596,-1.0029355,stayed wrong
+Cora,after Correct,1984,4,6,-1.5258105,13.097375,fixed
+Cora,after Correct,2635,3,3,24.782593,4.06998,stayed right
+Cora,after Correct,2015,6,5,-18.304283,-4.4308634,stayed wrong
+Cora,after Correct,1113,5,5,-18.07503,-10.763206,stayed right
+Cora,after Correct,172,3,3,16.289587,-1.2161944,stayed right
+Cora,after Correct,444,4,4,-8.961332,28.582726,stayed right
+Cora,after Correct,2457,6,6,-0.9463951,12.179274,stayed right
+Cora,after Correct,1172,0,3,7.5083404,-4.873883,stayed wrong
+Cora,after Correct,1856,1,1,19.134275,-25.855862,stayed right
+Cora,after Correct,1693,0,0,-27.86663,8.444603,stayed right
+Cora,after Correct,762,2,2,-5.527989,-23.675367,stayed right
+Cora,after Correct,2402,1,3,18.692997,3.2257423,stayed wrong
+Cora,after Correct,803,5,5,-19.581043,-9.898908,stayed right
+Cora,after Correct,1223,3,3,24.209787,6.3141565,stayed right
+Cora,after Correct,1908,4,0,-24.423353,10.171186,stayed wrong
+Cora,after Correct,141,3,4,-6.0846715,27.763578,fixed
+Cora,after Correct,600,6,4,-7.8106866,25.653961,fixed
+Cora,after Correct,1276,5,5,-18.966389,-9.746675,stayed right
+Cora,after Correct,652,4,4,-9.467243,28.58641,stayed right
+Cora,after Correct,1447,3,3,22.456055,5.025033,stayed right
+Cora,after Correct,1958,5,5,-18.188929,-10.82822,stayed right
+Cora,after Correct,1716,2,5,-16.007214,-5.406818,fixed
+Cora,after Correct,1180,1,1,20.085672,-24.860743,stayed right
+Cora,after Correct,1557,2,2,-2.5251122,-25.709236,stayed right
+Cora,after Correct,1269,5,5,-18.419739,-10.892221,stayed right
+Cora,after Correct,1319,3,0,-23.727123,9.792329,stayed wrong
+Cora,after Correct,939,6,6,-3.76099,15.288603,stayed right
+Cora,after Correct,1730,2,2,-6.2610855,-24.273224,stayed right
+Cora,after Correct,2605,3,3,18.97249,4.2286663,stayed right
+Cora,after Correct,1031,3,3,23.266745,5.5818014,stayed right
+Cora,after Correct,1229,2,2,-1.685603,-24.882524,stayed right
+Cora,after Correct,2204,3,3,20.08833,-1.7820406,stayed right
+Cora,after Correct,2389,2,2,-3.9987063,-23.855877,stayed right
+Cora,after Correct,321,3,0,-22.459242,8.797942,fixed
+Cora,after Correct,2517,5,5,-19.804121,-10.017366,stayed right
+Cora,after Correct,370,5,5,-17.866358,-10.391234,stayed right
+Cora,after Correct,1936,3,3,24.88202,6.9131465,stayed right
+Cora,after Correct,987,3,3,6.893088,-4.5516086,broken
+Cora,after Correct,1555,5,5,-19.313023,-6.740993,stayed right
+Cora,after Correct,1593,6,6,-1.1536652,12.079768,stayed right
+Cora,after Correct,868,3,3,15.42853,-3.333796,stayed right
+Cora,after Correct,38,4,4,-5.3744583,22.782925,stayed right
+Cora,after Correct,1393,3,4,-4.533694,23.872248,stayed wrong
+Cora,after Correct,1537,5,5,-17.857533,-9.97959,stayed right
+Cora,after Correct,1155,2,2,-1.960163,-24.690382,stayed right
+Cora,after Correct,2509,3,3,19.971458,-1.3012533,stayed right
+Cora,after Correct,1236,6,6,-0.94429684,12.183774,stayed right
+Cora,after Correct,1674,6,6,-1.6008147,12.623375,stayed right
+Cora,after Correct,148,4,4,-8.932859,26.784344,stayed right
+Cora,after Correct,809,0,5,-19.82618,-8.250259,stayed wrong
+Cora,after Correct,2501,3,3,18.922913,3.5467458,stayed right
+Cora,after Correct,2073,0,3,6.998168,-4.5275826,fixed
+Cora,after Correct,642,0,0,-22.530329,8.536238,stayed right
+Cora,after Correct,2370,3,3,25.60756,6.65934,stayed right
+Cora,after Correct,645,5,5,-19.4934,-10.4578905,stayed right
+Cora,after Correct,840,5,5,-19.056168,-10.563446,stayed right
+Cora,after Correct,968,1,2,-3.679667,-25.800035,stayed wrong
+Cora,after Correct,2070,0,0,-27.874563,7.7789745,stayed right
+Cora,after Correct,1192,3,4,-8.661349,27.256052,fixed
+Cora,after Correct,2209,6,3,19.921776,-1.6038628,fixed
+Cora,after Correct,1253,1,1,19.371843,-25.935,stayed right
+Cora,after Correct,742,2,5,-16.378435,-3.7265065,fixed
+Cora,after Correct,2219,0,3,10.292549,-4.264275,fixed
+Cora,after Correct,6,0,0,-28.354519,8.153917,stayed right
+Cora,after Correct,2293,0,0,-27.179663,8.217503,stayed right
+Cora,after Correct,637,3,4,-8.132121,18.231237,fixed
+Cora,after Correct,419,5,5,-18.774527,-10.8596115,stayed right
+Cora,after Correct,1883,5,5,-19.050144,-10.14726,stayed right
+Cora,after Correct,1523,0,0,-27.211153,7.422081,stayed right
+Cora,after Correct,1473,3,3,16.936287,-3.7646003,stayed right
+Cora,after Correct,232,3,3,18.430824,3.7387853,stayed right
+Cora,after Correct,989,0,0,-20.815556,6.198788,broken
+Cora,after Correct,530,0,0,-27.254599,8.907715,broken
+Cora,after Correct,2175,2,3,8.406588,-6.213827,stayed wrong
+Cora,after Correct,319,3,2,-0.46806204,-22.99914,stayed wrong
+Cora,after Correct,1445,3,3,18.445507,3.8228555,stayed right
+Cora,after Correct,146,0,0,-28.39767,7.723572,stayed right
+Cora,after Correct,452,1,1,17.553675,-22.108482,stayed right
+Cora,after Correct,1448,1,1,18.839561,-25.605972,stayed right
+Cora,after Correct,1647,6,6,-1.6567173,11.902434,stayed right
+Cora,after Correct,999,2,2,-5.617959,-24.211046,stayed right
+Cora,after Correct,2144,1,1,19.723131,-25.926355,stayed right
+Cora,after Correct,662,3,3,9.6335535,-4.144849,stayed right
+Cora,after Correct,887,1,1,18.860762,-25.162098,stayed right
+Cora,after Correct,1677,5,3,11.735229,-3.253188,stayed wrong
+Cora,after Correct,2540,3,3,21.33951,5.2640142,stayed right
+Cora,after Correct,1138,4,4,-9.119735,26.54327,stayed right
+Cora,after Correct,565,2,5,-16.045769,-5.348354,fixed
+Cora,after Correct,2627,2,2,-5.9675503,-23.888573,stayed right
+Cora,after Correct,103,1,1,19.888866,-25.85906,stayed right
+Cora,after Correct,320,4,3,8.69609,-3.8516338,stayed wrong
+Cora,after Correct,2361,3,3,22.138292,2.6444318,stayed right
+Cora,after Correct,2244,3,3,24.145031,6.0621433,stayed right
+Cora,after Correct,381,4,4,-8.601464,28.350315,stayed right
+Cora,after Correct,2545,1,1,19.909437,-25.821777,stayed right
+Cora,after Correct,532,3,3,18.658962,3.6912353,stayed right
+Cora,after Correct,487,1,3,10.696186,-5.177157,fixed
+Cora,after Correct,1578,5,0,-27.166618,8.713797,fixed
+Cora,after Correct,1817,3,3,20.365332,3.7340324,stayed right
+Cora,after Correct,139,1,1,20.062784,-25.663929,stayed right
+Cora,after Correct,132,5,5,-20.363876,-8.844758,stayed right
+Cora,after Correct,1437,4,4,-3.8538954,26.496237,stayed right
+Cora,after Correct,27,3,3,22.036512,2.7488961,stayed right
+Cora,after Correct,2296,3,3,21.715832,3.3218963,stayed right
+Cora,after Correct,1193,1,1,19.504772,-25.312899,stayed right
+Cora,after Correct,82,4,4,-6.003841,27.780909,stayed right
+Cora,after Correct,114,5,5,-16.78129,-4.882506,stayed right
+Cora,after Correct,2072,0,0,-23.800701,9.882728,stayed right
+Cora,after Correct,1639,4,4,-9.127747,27.404886,stayed right
+Cora,after Correct,663,6,6,-2.0227108,12.32778,stayed right
+Cora,after Correct,1009,1,4,-5.6484504,17.858706,fixed
+Cora,after Correct,2060,5,5,-18.624502,-10.248737,stayed right
+Cora,after Correct,2369,3,3,25.790188,6.06875,stayed right
+Cora,after Correct,1423,3,3,10.483605,-3.4319694,stayed right
+Cora,after Correct,149,0,4,-4.42552,16.461153,fixed
+Cora,after Correct,2190,6,5,-19.249212,-6.7513595,stayed wrong
+Cora,after Correct,752,2,3,17.138058,-3.619273,fixed
+Cora,after Correct,2518,4,4,-8.367387,28.19939,stayed right
+Cora,after Correct,458,5,5,-18.60072,-10.262948,stayed right
+Cora,after Correct,1486,2,3,10.366238,-3.5381315,fixed
+Cora,after Correct,569,2,2,-0.7779852,-22.188114,stayed right
+Cora,after Correct,748,2,2,-0.26747152,-22.278278,stayed right
+Cora,after Correct,526,2,2,-5.6911063,-24.935015,stayed right
+Cora,after Correct,1496,3,3,25.029253,6.949509,stayed right
+Cora,after Correct,468,5,5,-18.431553,-6.2090273,stayed right
+Cora,after Correct,2297,4,4,-4.3496404,24.06485,stayed right
+Cora,after Correct,2610,3,3,24.790728,6.4518714,stayed right
+Cora,after Correct,2473,4,4,-9.039871,28.771847,stayed right
+Cora,after Correct,2591,1,1,19.667784,-24.667341,stayed right
+Cora,after Correct,2220,2,2,-5.986097,-25.17555,stayed right
+Cora,after Correct,1297,3,3,19.114916,4.557938,stayed right
+Cora,after Correct,2674,4,3,5.6481905,-6.328704,fixed
+Cora,after Correct,2268,0,4,-8.59303,26.259735,stayed wrong
+Cora,after Correct,1355,3,3,20.037443,-0.56745994,stayed right
+Cora,after Correct,201,3,3,18.817513,-2.4774005,stayed right
+Cora,after Correct,979,3,1,18.664417,-23.220438,fixed
+Cora,after Correct,1430,2,2,-2.8012674,-25.954777,stayed right
+Cora,after Correct,1070,2,4,-5.781982,20.600197,stayed wrong
+Cora,after Correct,19,3,3,18.16418,-1.8047636,stayed right
+Cora,after Correct,717,0,0,-25.37556,9.976678,stayed right
+Cora,after Correct,548,1,5,-17.287476,-5.618541,stayed wrong
+Cora,after Correct,848,2,2,-3.8674235,-24.071648,stayed right
+Cora,after Correct,50,5,0,-20.942814,6.3152294,fixed
+Cora,after Correct,945,1,2,-3.0170503,-19.699219,stayed wrong
+Cora,after Correct,1075,3,3,8.1598625,-1.5487208,stayed right
+Cora,after Correct,1353,5,2,-1.3141526,-22.4036,fixed
+Cora,after Correct,1104,0,3,8.00853,-1.5114169,fixed
+Cora,after Correct,524,2,0,-23.641895,8.949838,fixed
+Cora,after Correct,76,5,0,-24.575274,9.321827,stayed wrong
+Cora,after Correct,214,0,0,-27.37732,8.204717,stayed right
+Cora,after Correct,1820,3,3,18.483604,2.6429882,stayed right
+Cora,after Correct,2341,4,4,-6.6061225,20.191654,broken
+Cora,after Correct,2485,5,5,-17.283665,-5.812291,broken
+Cora,after Correct,1074,6,6,-1.3673544,11.925748,stayed right
+Cora,after Correct,2511,0,1,19.570616,-24.685257,fixed
+Cora,after Correct,362,4,4,-8.526898,26.91799,stayed right
+Cora,after Correct,2633,3,3,25.219255,3.9609349,stayed right
+Cora,after Correct,937,1,1,19.530031,-24.696342,stayed right
+Cora,after Correct,1412,2,2,-3.8438005,-25.711184,stayed right
+Cora,after Correct,2054,0,0,-25.757614,9.990982,stayed right
+Cora,after Correct,401,3,3,9.128288,-4.8382444,stayed right
+Cora,after Correct,26,6,6,-1.8171271,12.008591,stayed right
+Cora,after Correct,113,5,5,-19.193892,-6.7317815,stayed right
+Cora,after Correct,2406,3,3,23.228596,3.5939121,broken
+Cora,after Correct,1242,3,3,16.712336,-2.7544405,stayed right
+Cora,after Correct,1112,4,4,-9.059812,29.221457,stayed right
+Cora,after Correct,661,5,3,9.81944,-4.212421,fixed
+Cora,after Correct,1251,1,3,8.170114,-6.359771,fixed
+Cora,after Correct,1300,3,3,24.854906,6.922936,stayed right
+Cora,after Correct,1034,2,2,-2.2841203,-19.6229,stayed right
+Cora,after Correct,2264,4,4,-8.373324,27.064484,stayed right
+Cora,after Correct,597,3,5,-16.510668,-4.1230073,stayed wrong
+Cora,after Correct,609,2,2,-6.548181,-24.595112,stayed right
+Cora,after Correct,1401,4,4,-5.058857,20.241732,stayed right
+Cora,after Correct,514,5,6,-2.7405915,13.708566,fixed
+Cora,after Correct,2082,1,1,19.248146,-25.057253,stayed right
+Cora,after Correct,969,2,2,-3.9215128,-25.093933,stayed right
+Cora,after Correct,513,2,2,-5.385663,-24.500671,stayed right
+Cora,after Correct,1293,0,0,-24.863272,10.259555,stayed right
+Cora,after Correct,862,4,2,5.653952,-6.777575,stayed wrong
+Cora,after Correct,2138,3,4,-5.8395987,18.744577,fixed
+Cora,after Correct,197,3,3,18.369957,3.570632,stayed right
+Cora,after Correct,882,2,1,18.889196,-25.057732,fixed
+Cora,after Correct,2576,0,0,-25.307117,8.954562,stayed right
+Cora,after Correct,2371,3,3,25.662506,6.6158595,stayed right
+Cora,after Correct,2259,4,4,-8.261563,25.737888,stayed right
+Cora,after Correct,2051,0,0,-20.633175,6.030585,stayed right
+Cora,after Correct,1261,4,4,-8.451914,27.20497,stayed right
+Cora,after Correct,1086,3,0,-8.266855,17.974194,fixed
+Cora,after Correct,2086,1,1,19.975206,-24.79036,stayed right
+Cora,after Correct,159,3,3,20.009392,1.4031863,stayed right
+Cora,after Correct,2656,2,2,-1.0393767,-24.419008,stayed right
+Cora,after Correct,1926,0,0,-23.37596,7.840422,stayed right
+Cora,after Correct,1178,4,4,-8.166394,18.136871,stayed right
+Cora,after Correct,566,3,3,16.701328,-2.8015077,stayed right
+Cora,after Correct,1187,0,3,10.013842,-4.3243146,fixed
+Cora,after Correct,2083,2,2,-0.81875277,-21.43895,stayed right
+Cora,after Correct,2670,4,4,-8.479186,28.820698,stayed right
+Cora,after Correct,1685,2,2,-5.9724913,-23.733578,stayed right
+Cora,after Correct,126,1,1,18.640224,-24.023827,stayed right
+Cora,after Correct,2659,3,3,14.898793,-0.9837042,stayed right
+Cora,after Correct,622,3,3,23.286362,5.5437303,stayed right
+Cora,after Correct,2598,1,1,19.02661,-22.539495,stayed right
+Cora,after Correct,1409,5,5,-18.055908,-10.668003,stayed right
+Cora,after Correct,251,3,3,21.187622,2.302914,stayed right
+Cora,after Correct,485,0,0,-26.666025,9.708859,stayed right
+Cora,after Correct,2202,0,0,-28.133877,7.2949557,stayed right
+Cora,after Correct,2440,2,5,-16.460783,-4.0441456,fixed
+Cora,after Correct,379,5,5,-19.846375,-8.302734,stayed right
+Cora,after Correct,1805,1,5,-19.382101,-7.5901437,fixed
+Cora,after Correct,125,5,5,-17.861729,-9.983432,stayed right
+Cora,after Correct,1398,2,2,-6.240134,-23.89992,stayed right
+Cora,after Correct,1147,3,3,25.49727,6.4141736,stayed right
+Cora,after Correct,2450,2,2,-6.067436,-25.027443,stayed right
+Cora,after Correct,1366,4,4,-8.747634,28.5449,stayed right
+Cora,after Correct,996,4,4,-7.288327,26.281082,stayed right
+Cora,after Correct,1824,5,5,-19.072643,-10.6359625,stayed right
+Cora,after Correct,698,4,0,-27.593119,7.216756,fixed
+Cora,after Correct,693,0,0,-27.15228,7.5981603,stayed right
+Cora,after Correct,683,1,2,-0.48614973,-23.322407,stayed wrong
+Cora,after Correct,1747,2,2,-2.634844,-25.817347,stayed right
+Cora,after Correct,2351,4,4,-4.6154723,27.827044,stayed right
+Cora,after Correct,1963,5,5,-18.139229,-7.1814966,stayed right
+Cora,after Correct,1594,5,0,-25.695654,10.33901,stayed wrong
+Cora,after Correct,441,5,0,-22.588007,7.536563,fixed
+Cora,after Correct,137,1,1,19.56215,-25.966484,stayed right
+Cora,after Correct,1923,0,4,-7.985097,18.416227,fixed
+Cora,after Correct,145,6,3,12.569878,-3.5469499,fixed
+Cora,after Correct,2071,2,2,-4.089273,-26.074972,broken
+Cora,after Correct,712,6,6,-2.4924798,13.431885,stayed right
+Cora,after Correct,855,3,3,10.149483,-2.043919,stayed right
+Cora,after Correct,2387,4,4,-5.100858,23.050987,stayed right
+Cora,after Correct,2272,5,6,-0.9871808,12.773701,fixed
+Cora,after Correct,303,1,1,19.99878,-24.802511,stayed right
+Cora,after Correct,1403,3,2,-2.3735664,-19.825508,fixed
+Cora,after Correct,2429,1,1,18.29186,-22.954273,broken
+Cora,after Correct,300,5,4,-5.950113,19.143856,stayed wrong
+Cora,after Correct,2145,1,1,19.00097,-23.511387,stayed right
+Cora,after Correct,584,4,2,-2.0399077,-20.448399,fixed
+Cora,after Correct,68,2,5,-18.217627,-5.3708987,fixed
+Cora,after Correct,282,5,5,-18.651707,-10.904432,stayed right
+Cora,after Correct,1130,3,3,18.803713,4.1982803,stayed right
+Cora,after Correct,328,2,2,-5.9865417,-24.742601,stayed right
+Cora,after Correct,2638,6,6,-2.5595164,13.641706,stayed right
+Cora,after Correct,699,3,1,18.716978,-24.171297,stayed wrong
+Cora,after Correct,1429,4,4,-8.675256,25.877876,stayed right
+Cora,after Correct,2616,2,2,-2.7847455,-19.680252,stayed right
+Cora,after Correct,575,3,0,-23.521976,8.180337,fixed
+Cora,after Correct,119,5,5,-17.882189,-10.241191,stayed right
+Cora,after Correct,1357,0,0,-25.071445,8.840526,stayed right
+Cora,after Correct,1025,0,4,-7.270677,19.73044,fixed
+Cora,after Correct,355,2,2,-2.7075553,-25.400946,stayed right
+Cora,after Correct,2410,3,3,12.031649,-4.164199,stayed right
+Cora,after Correct,2569,3,3,16.300138,-1.189531,stayed right
+Cora,after Correct,523,4,4,-3.8818057,25.215712,stayed right
+Cora,after Correct,714,4,3,23.257303,5.38964,fixed
+Cora,after Correct,199,4,3,11.257693,-1.6421869,stayed wrong
+Cora,after Correct,2155,0,0,-24.937094,10.156058,stayed right
+Cora,after Correct,1307,4,4,-9.421876,27.557785,stayed right
+Cora,after Correct,2074,0,0,-28.140461,8.397824,stayed right
+Cora,after Correct,1032,5,5,-18.387426,-9.616626,stayed right
+Cora,after Correct,2063,3,3,19.2296,3.0106924,stayed right
+Cora,after Correct,1008,0,0,-27.901615,8.500317,stayed right
+Cora,after Correct,245,4,3,13.16322,-1.5655038,fixed
+Cora,after Correct,1871,3,3,18.41049,3.6787417,stayed right
+Cora,after Correct,1987,3,3,16.494873,-1.401384,stayed right
+Cora,after Correct,656,1,0,-27.675463,7.23004,fixed
+Cora,after Correct,852,0,5,-15.791033,-5.1377482,stayed wrong
+Cora,after Correct,965,0,0,-28.365978,7.6317396,stayed right
+Cora,after Correct,1803,0,0,-27.150293,7.6819634,stayed right
+Cora,after Correct,1687,2,5,-16.940863,-5.0436177,fixed
+Cora,after Correct,1345,2,3,10.480459,-3.4695723,fixed
+Cora,after Correct,59,2,2,-3.9238672,-25.967722,stayed right
+Cora,after Correct,1575,3,6,-2.119303,12.988163,stayed wrong
+Cora,after Correct,292,0,3,20.721714,1.2078784,fixed
+Cora,after Correct,165,3,3,19.207487,4.875516,stayed right
+Cora,after Correct,90,2,2,-5.484596,-24.6706,stayed right
+Cora,after Correct,905,2,2,-5.996802,-23.579275,stayed right
+Cora,after Correct,1535,0,0,-20.627434,6.082523,stayed right
+Cora,after Correct,312,2,4,-4.06073,26.93923,fixed
+Cora,after Correct,730,0,4,-7.3633947,19.521288,stayed wrong
+Cora,after Correct,1778,1,1,19.01659,-25.739174,stayed right
+Cora,after Correct,1090,3,3,25.511248,6.7764444,stayed right
+Cora,after Correct,704,2,1,17.503572,-22.059204,fixed
+Cora,after Correct,128,5,5,-20.456142,-9.970852,stayed right
+Cora,after Correct,618,3,3,5.7501974,-6.6148467,stayed right
+Cora,after Correct,2240,4,4,-3.992762,24.928854,stayed right
+Cora,after Correct,1891,4,4,-3.8838687,25.208817,stayed right
+Cora,after Correct,904,5,5,-18.03203,-9.734835,stayed right
+Cora,after Correct,680,0,3,20.142843,-1.0833673,fixed
+Cora,after Correct,1066,3,3,21.052782,5.353325,stayed right
+Cora,after Correct,2249,4,4,-6.181616,21.182243,stayed right
+Cora,after Correct,1889,4,3,13.067274,-1.6088915,stayed wrong
+Cora,after Correct,1796,4,4,-8.927575,26.365273,stayed right
+Cora,after Correct,2214,3,3,16.43025,-3.0599623,stayed right
+Cora,after Correct,386,3,3,7.9580984,-1.4992732,stayed right
+Cora,after Correct,1233,2,2,-1.8172779,-22.737127,stayed right
+Cora,after Correct,755,5,0,-21.813816,8.3998375,stayed wrong
+Cora,after Correct,504,6,5,-17.275986,-4.3116746,fixed
+Cora,after Correct,557,2,2,-0.813618,-21.709763,stayed right
+Cora,after Correct,2125,3,3,23.400736,5.136492,stayed right
+Cora,after Correct,2164,6,6,-1.2405275,12.011442,stayed right
+Cora,after Correct,1644,0,0,-27.148514,7.6459556,stayed right
+Cora,after Correct,1427,2,2,-6.502557,-25.233625,stayed right
+Cora,after Correct,178,3,3,17.60895,2.8145685,stayed right
+Cora,after Correct,1819,3,3,18.070107,-1.527279,stayed right
+Cora,after Correct,2474,4,4,-8.863612,29.192358,stayed right
+Cora,after Correct,79,0,4,-5.6957254,19.574118,stayed wrong
+Cora,after Correct,899,3,4,-6.1970725,21.167734,fixed
+Cora,after Correct,794,0,4,-3.840225,25.433878,stayed wrong
+Cora,after Correct,2097,0,6,-3.1136162,14.452658,stayed wrong
+Cora,after Correct,342,1,6,-1.275103,13.008237,stayed wrong
+Cora,after Correct,1559,4,4,-6.1639476,21.199432,stayed right
+Cora,after Correct,675,4,4,-8.528471,26.913252,stayed right
+Cora,after Correct,1621,3,4,-3.833277,25.44844,fixed
+Cora,after Correct,2129,3,0,-27.71114,8.004427,fixed
+Cora,after Correct,1286,4,0,-23.534475,8.84671,stayed wrong
+Cora,after Correct,1920,0,5,-18.172974,-7.2105913,fixed
+Cora,after Correct,1441,5,5,-15.45202,-5.1912036,stayed right
+Cora,after Correct,2012,3,3,19.797054,1.4863446,stayed right
+Cora,after Correct,2119,3,4,-9.326672,28.486238,stayed wrong
+Cora,after Correct,186,0,0,-27.819328,7.858263,stayed right
+Cora,after Correct,2503,2,2,-6.4802823,-24.108883,stayed right
+Cora,after Correct,1372,6,6,-1.8696666,12.071846,stayed right
+Cora,after Correct,1870,3,3,10.18249,-1.8079798,stayed right
+Cora,after Correct,1565,2,5,-19.24554,-7.3621154,fixed
+Cora,after Correct,2418,0,0,-27.679283,7.219999,stayed right
+Cora,after Correct,304,0,2,-1.5404813,-20.949493,stayed wrong
+Cora,after Correct,500,3,3,13.034136,-2.3789117,stayed right
+Cora,after Correct,2203,0,0,-28.358334,8.146087,stayed right
+Cora,after Correct,1489,2,2,-5.060792,-24.319988,broken
+Cora,after Correct,2285,5,5,-18.440243,-10.316057,stayed right
+Cora,after Correct,1744,2,2,-6.2337337,-23.938768,stayed right
+Cora,after Correct,432,3,3,10.408011,-5.097431,stayed right
+Cora,after Correct,2066,3,3,24.533625,6.874359,stayed right
+Cora,after Correct,2632,3,3,21.327675,5.258654,stayed right
+Cora,after Correct,2039,3,3,17.169563,-1.8507645,stayed right
+Cora,after Correct,774,4,4,-6.2553926,20.825884,stayed right
+Cora,after Correct,2377,1,3,8.3084955,-6.261738,stayed wrong
+Cora,after Correct,2672,4,4,-8.546677,28.929886,stayed right
+Cora,after Correct,1388,0,0,-28.185062,7.3270593,stayed right
+Cora,after Correct,211,0,5,-19.856125,-7.319194,fixed
+Cora,after Correct,679,0,0,-26.74502,9.521454,stayed right
+Cora,after Correct,1981,0,0,-27.46622,8.753379,stayed right
+Cora,after Correct,318,1,1,19.25482,-25.892742,stayed right
+Cora,after Correct,2308,3,3,21.951658,2.5492563,stayed right
+Cora,after Correct,2064,3,3,18.842316,4.6591535,stayed right
+Cora,after Correct,1795,4,4,-9.284759,29.11198,stayed right
+Cora,after Correct,771,0,3,17.24359,-1.6364737,fixed
+Cora,after Correct,1356,3,3,20.149694,0.0780604,stayed right
+Cora,after Correct,2434,4,6,-1.5730206,12.5709915,fixed
+Cora,after Correct,1957,3,4,-5.0193477,23.11068,fixed
+Cora,after Correct,1231,3,3,18.069841,-1.4732642,stayed right
+Cora,after Correct,2400,4,4,-9.512395,28.387081,stayed right
+Cora,after Correct,1436,5,4,-5.8399615,27.752106,stayed wrong
+Cora,after Correct,1703,4,4,-8.557361,25.770159,stayed right
+Cora,after Correct,481,2,2,-1.9008192,-25.484907,stayed right
+Cora,after Correct,424,5,3,20.171959,4.703131,stayed wrong
+Cora,after Correct,2076,3,3,18.683094,3.06498,stayed right
+Cora,after Correct,1998,5,3,12.40852,-3.0692942,stayed wrong
+Cora,after Correct,2679,4,4,-8.597457,29.081024,stayed right
+Cora,after Correct,606,0,3,7.4525003,-4.675018,stayed wrong
+Cora,after Correct,1438,3,3,24.83499,3.7229304,stayed right
+Cora,after Correct,1364,3,3,24.857805,6.6450734,stayed right
+Cora,after Correct,1733,2,2,-2.3647733,-19.145208,stayed right
+Cora,after Correct,1203,0,5,-20.404774,-8.821248,stayed wrong
+Cora,after Correct,1755,2,2,-5.9110594,-24.42831,stayed right
+Cora,after Correct,433,3,3,22.48677,4.1280527,stayed right
+Cora,after Correct,2224,4,6,-0.9763078,12.76974,fixed
+Cora,after Correct,2213,3,4,-4.4632306,22.997353,fixed
+Cora,after Correct,2340,3,3,19.317142,5.0994387,stayed right
+Cora,after Correct,326,2,2,-0.82995474,-23.27443,stayed right
+Cora,after Correct,1789,1,1,20.145668,-25.316069,stayed right
+Cora,after Correct,2245,3,3,23.260014,3.8233447,stayed right
+Cora,after Correct,2433,2,4,-5.0928106,23.147032,stayed wrong
+Cora,after Correct,846,3,3,20.169691,1.2074025,stayed right
+Cora,after Correct,1560,1,1,20.164831,-25.406038,stayed right
+Cora,after Correct,1361,2,2,-0.72792476,-23.281229,stayed right
+Cora,after Correct,55,4,4,-8.006238,26.864796,broken
+Cora,after Correct,2486,3,3,24.09369,4.56864,stayed right
+Cora,after Correct,2512,2,2,-2.0373526,-20.518843,stayed right
+Cora,after Correct,1329,3,4,-5.0898414,23.108194,fixed
+Cora,after Correct,2451,2,2,-1.6794543,-22.593752,stayed right
+Cora,after Correct,2273,5,5,-18.955208,-9.82943,stayed right
+Cora,after Correct,1206,4,4,-8.510823,28.81415,stayed right
+Cora,after Correct,893,4,4,-4.440869,27.636408,stayed right
+Cora,after Correct,1701,3,3,15.20669,-3.594973,stayed right
+Cora,after Correct,1628,0,0,-25.207722,10.0795555,stayed right
+Cora,after Correct,1935,3,3,10.081298,-1.8282982,stayed right
+Cora,after Correct,1983,0,5,-18.230774,-4.690005,fixed
+Cora,after Correct,1218,0,0,-28.33042,8.206263,stayed right
+Cora,after Correct,229,3,2,-2.2110472,-19.780521,fixed
+Cora,after Correct,749,4,0,-26.624565,9.590201,stayed wrong
+Cora,after Correct,902,2,2,-5.443086,-23.687164,stayed right
+Cora,after Correct,2122,4,4,-6.9276195,26.176666,stayed right
+Cora,after Correct,2168,1,2,-4.729682,-23.589224,stayed wrong
+Cora,after Correct,476,1,1,20.159859,-25.422722,stayed right
+Cora,after Correct,1108,3,3,22.125969,4.0112343,stayed right
+Cora,after Correct,14,3,3,12.442644,-3.0439324,stayed right
+Cora,after Correct,2533,0,3,19.89909,4.8850837,stayed wrong
+Cora,after Correct,1342,4,4,-4.2280335,24.436424,stayed right
+Cora,after Correct,1016,3,3,11.634968,-1.6676059,stayed right
+Cora,after Correct,586,0,0,-27.320269,7.9806705,stayed right
+Cora,after Correct,966,0,0,-27.412035,7.3375735,stayed right
+Cora,after Correct,1106,3,3,17.4902,-3.0297213,stayed right
+Cora,after Correct,1529,4,4,-4.565558,16.77306,stayed right
+Cora,after Correct,983,4,4,-5.4904437,22.622076,stayed right
+Cora,after Correct,1386,3,3,24.996647,6.5264583,stayed right
+Cora,after Correct,1341,0,3,20.81592,2.5256333,stayed wrong
+Cora,after Correct,1170,6,6,-1.4800934,13.083169,stayed right
+Cora,after Correct,891,6,6,-1.0067211,12.811227,stayed right
+Cora,after Correct,1857,3,3,5.71599,-6.470571,stayed right
+Cora,after Correct,2673,4,4,-9.120112,27.726942,stayed right
+Cora,after Correct,1727,2,2,-5.198002,-23.272552,stayed right
+Cora,after Correct,397,3,3,18.909695,4.8755274,stayed right
+Cora,after Correct,707,0,0,-25.3676,10.032947,stayed right
+Cora,after Correct,1021,4,6,-1.8900305,12.145186,stayed wrong
+Cora,after Correct,86,4,3,20.448761,-2.2298758,stayed wrong
+Cora,after Correct,359,2,2,-1.3007258,-24.22317,stayed right
+Cora,after Correct,1760,2,5,-17.066042,-5.3377557,fixed
+Cora,after Correct,1530,4,4,-9.513398,28.869799,stayed right
+Cora,after Correct,1158,1,4,-4.0530677,27.233318,stayed wrong
+Cora,after Correct,689,2,2,-1.2157242,-23.358732,stayed right
+Cora,after Correct,1402,6,6,-0.8608539,12.553187,stayed right
+Cora,after Correct,1305,2,2,-5.541054,-24.345345,stayed right
+Cora,after Correct,78,4,4,-4.910356,27.112247,stayed right
+Cora,after Correct,676,5,5,-17.882008,-10.444205,stayed right
+Cora,after Correct,543,0,6,-2.1492095,12.853029,fixed
+Cora,after Correct,921,6,6,-0.92764455,12.421359,stayed right
+Cora,after Correct,1781,1,1,19.2998,-24.837008,stayed right
+Cora,after Correct,2093,1,3,12.276184,-4.026343,fixed
+Cora,after Correct,1470,5,5,-18.033089,-9.736109,stayed right
+Cora,after Correct,1595,3,3,20.058987,-1.2190857,stayed right
+Cora,after Correct,2662,4,4,-9.251628,27.720873,stayed right
+Cora,after Correct,1451,4,4,-9.155452,29.156635,stayed right
+Cora,after Correct,1247,3,3,19.982515,4.815096,stayed right
+Cora,after Correct,1368,5,5,-18.981,-9.784613,stayed right
+Cora,after Correct,1516,2,2,-3.8307474,-24.250368,stayed right
+Cora,after Correct,702,6,0,-25.483799,10.904469,stayed wrong
+Cora,after Correct,2498,4,1,18.274994,-22.52676,fixed
+Cora,after Correct,269,3,3,24.372692,6.7866364,stayed right
+Cora,after Correct,411,3,3,20.1184,-1.6601636,stayed right
+Cora,after Correct,2008,3,3,19.600441,3.7245393,stayed right
+Cora,after Correct,2675,4,4,-6.9865394,26.203455,stayed right
+Cora,after Correct,1266,4,4,-5.8756146,27.765484,stayed right
+Cora,after Correct,1640,1,1,18.929476,-22.554382,stayed right
+Cora,after Correct,1249,2,3,19.427114,-2.1451879,fixed
+Cora,after Correct,838,0,0,-28.402391,7.7838645,stayed right
+Cora,after Correct,2600,3,3,24.559086,6.8990483,stayed right
+Cora,after Correct,207,3,3,20.076551,-1.11396,stayed right
+Cora,after Correct,285,3,3,15.018169,-3.547365,stayed right
+Cora,after Correct,337,2,2,-5.812945,-23.528738,stayed right
+Cora,after Correct,786,4,3,8.691724,-1.6479684,stayed wrong
+Cora,after Correct,105,2,2,-5.583082,-24.728724,stayed right
+Cora,after Correct,1015,4,4,-6.0587416,27.772938,stayed right
+Cora,after Correct,953,3,4,-6.706124,20.91001,fixed
+Cora,after Correct,564,2,2,-4.693602,-23.691736,stayed right
+Cora,after Correct,2002,4,3,8.135466,-1.526547,stayed wrong
+Cora,after Correct,761,4,4,-8.414377,27.877821,stayed right
+Cora,after Correct,2612,2,2,-5.1168523,-23.629517,stayed right
+Cora,after Correct,1922,0,3,8.916348,-1.7224047,fixed
+Cora,after Correct,1867,3,3,19.704124,1.0991945,stayed right
+Cora,after Correct,41,6,5,-18.367311,-9.608378,fixed
+Cora,after Correct,2106,1,1,18.821873,-25.549604,stayed right
+Cora,after Correct,1623,1,1,18.955048,-24.758774,stayed right
+Cora,after Correct,1184,5,3,18.796246,-2.218178,fixed
+Cora,after Correct,2497,5,5,-18.336643,-6.161804,stayed right
+Cora,after Correct,2686,3,3,5.669051,-6.2242155,stayed right
+Cora,after Correct,31,6,6,-1.846085,13.235366,broken
+Cora,after Correct,678,3,4,-5.6148477,17.730879,fixed
+Cora,after Correct,2011,3,3,14.528833,-1.4209874,stayed right
+Cora,after Correct,305,0,0,-27.413284,9.323497,stayed right
+Cora,after Correct,604,6,6,-3.8474164,15.453673,stayed right
+Cora,after Correct,1101,3,3,24.464169,4.232631,stayed right
+Cora,after Correct,1767,1,1,18.976921,-22.365772,stayed right
+Cora,after Correct,1737,2,2,-6.381368,-24.62647,stayed right
+Cora,after Correct,1185,3,3,23.675745,6.0202093,stayed right
+Cora,after Correct,1704,3,4,-4.8519406,27.008533,fixed
+Cora,after Correct,695,3,0,-21.627283,8.552893,fixed
+Cora,after Correct,1959,5,5,-19.247446,-10.434071,stayed right
+Cora,after Correct,153,1,1,18.803726,-25.377007,stayed right
+Cora,after Correct,2411,3,3,8.838069,-3.9121482,stayed right
+Cora,after Correct,2409,2,2,5.6322565,-6.7970567,broken
+Cora,after Correct,352,3,3,22.851244,3.5008636,stayed right
+Cora,after Correct,1119,3,3,16.50877,-1.2755615,stayed right
+Cora,after Correct,2320,3,3,18.142038,4.321285,stayed right
+Cora,after Correct,1472,3,3,22.392849,4.2013593,stayed right
+Cora,after Correct,510,3,3,17.300592,-2.8352928,stayed right
+Cora,after Correct,1374,0,0,-23.519403,7.8159075,broken
+Cora,after Correct,1650,5,5,-18.459684,-9.62467,stayed right
+Cora,after Smooth,1906,4,4,0.32059565,14.413609,stayed right
+Cora,after Smooth,1153,4,4,0.5932834,17.783659,stayed right
+Cora,after Smooth,1330,0,0,3.0861852,-7.6491528,stayed right
+Cora,after Smooth,2227,5,5,-4.377986,-11.839844,fixed
+Cora,after Smooth,621,5,5,-4.4544244,-14.713383,stayed right
+Cora,after Smooth,685,1,3,4.3604426,3.382327,stayed wrong
+Cora,after Smooth,1460,3,3,18.33744,3.9769127,stayed right
+Cora,after Smooth,1442,3,3,13.82147,0.6266975,fixed
+Cora,after Smooth,2088,1,4,-7.1360774,5.9234085,stayed wrong
+Cora,after Smooth,911,4,4,0.9846834,20.13167,stayed right
+Cora,after Smooth,122,6,6,-11.484064,-7.450685,stayed right
+Cora,after Smooth,2660,4,3,29.156633,5.9479628,stayed wrong
+Cora,after Smooth,1484,4,4,0.8285793,19.284538,stayed right
+Cora,after Smooth,551,6,3,-5.8608537,-12.045504,stayed wrong
+Cora,after Smooth,1570,3,3,15.052318,4.020802,stayed right
+Cora,after Smooth,226,3,3,9.066349,3.3390863,stayed right
+Cora,after Smooth,1098,3,3,24.219238,3.6283345,stayed right
+Cora,after Smooth,473,3,4,-0.8421932,24.250298,stayed wrong
+Cora,after Smooth,847,6,0,-0.6941609,-8.173529,stayed wrong
+Cora,after Smooth,252,5,6,-5.3875933,-8.862196,stayed wrong
+Cora,after Smooth,1198,0,0,0.867773,-6.7393894,fixed
+Cora,after Smooth,466,2,2,-38.40076,-3.7363582,stayed right
+Cora,after Smooth,1748,2,2,-34.7996,-4.0647144,stayed right
+Cora,after Smooth,70,5,5,-5.360383,-15.102059,stayed right
+Cora,after Smooth,1769,1,1,-11.1716585,6.503467,stayed right
+Cora,after Smooth,1111,4,3,22.509901,2.292902,stayed wrong
+Cora,after Smooth,53,2,2,-34.956688,-3.3758595,stayed right
+Cora,after Smooth,302,1,1,-12.639822,8.229975,stayed right
+Cora,after Smooth,778,6,6,-8.143617,-7.8013825,stayed right
+Cora,after Smooth,2431,4,4,5.3264966,12.969387,fixed
+Cora,after Smooth,1046,4,4,0.8209259,22.102945,stayed right
+Cora,after Smooth,938,3,3,18.827414,1.2013799,stayed right
+Cora,after Smooth,1338,5,5,-4.765339,-12.957709,stayed right
+Cora,after Smooth,574,3,3,9.629715,6.727555,stayed right
+Cora,after Smooth,2481,5,5,-7.2611017,-19.205027,stayed right
+Cora,after Smooth,536,2,2,-28.554996,-6.296043,stayed right
+Cora,after Smooth,1197,1,1,-9.068422,6.1342487,fixed
+Cora,after Smooth,1858,3,3,11.198605,4.943981,stayed right
+Cora,after Smooth,390,3,3,29.026527,5.6600595,stayed right
+Cora,after Smooth,770,3,3,11.11601,4.2303123,stayed right
+Cora,after Smooth,2626,3,3,29.950104,5.8597465,stayed right
+Cora,after Smooth,1515,0,0,5.0943766,-11.399667,stayed right
+Cora,after Smooth,1020,3,3,22.45887,3.1513565,stayed right
+Cora,after Smooth,1655,0,0,6.446337,-6.190686,stayed right
+Cora,after Smooth,246,2,2,-37.351215,-4.12594,stayed right
+Cora,after Smooth,962,3,3,24.871208,2.8427548,stayed right
+Cora,after Smooth,981,3,3,13.097961,5.5256486,fixed
+Cora,after Smooth,2582,3,3,15.434364,6.313216,fixed
+Cora,after Smooth,54,1,3,3.8328323,3.8592703,broken
+Cora,after Smooth,799,3,3,10.989269,3.5094962,stayed right
+Cora,after Smooth,1948,3,3,20.87048,4.809036,stayed right
+Cora,after Smooth,1929,3,3,5.9498343,2.7926745,stayed right
+Cora,after Smooth,32,0,3,4.926898,-0.9900641,stayed wrong
+Cora,after Smooth,1984,4,4,0.2695278,12.001427,fixed
+Cora,after Smooth,2635,3,3,25.45591,5.031894,stayed right
+Cora,after Smooth,2015,6,5,-3.2438257,-10.812297,stayed wrong
+Cora,after Smooth,1113,5,5,-7.8827004,-20.803104,stayed right
+Cora,after Smooth,172,3,3,19.365477,0.8754231,stayed right
+Cora,after Smooth,444,4,4,-0.095625155,25.648668,stayed right
+Cora,after Smooth,2457,6,6,-10.844045,-7.47557,stayed right
+Cora,after Smooth,1172,0,3,6.018063,0.726711,stayed wrong
+Cora,after Smooth,1856,1,1,-11.279806,8.52014,stayed right
+Cora,after Smooth,1693,0,0,6.973069,-12.420049,stayed right
+Cora,after Smooth,762,2,2,-31.64782,-4.214167,stayed right
+Cora,after Smooth,2402,1,3,14.058419,4.6485453,stayed wrong
+Cora,after Smooth,803,5,5,-6.6032124,-19.71806,stayed right
+Cora,after Smooth,1223,3,3,20.388525,4.8998704,stayed right
+Cora,after Smooth,1908,4,0,0.6513649,-3.801078,stayed wrong
+Cora,after Smooth,141,3,3,6.246422,9.421328,fixed
+Cora,after Smooth,600,6,6,-5.9325294,-6.300199,fixed
+Cora,after Smooth,1276,5,5,-7.608526,-21.638517,stayed right
+Cora,after Smooth,652,4,4,1.0080035,15.795064,stayed right
+Cora,after Smooth,1447,3,3,7.6637177,3.2006042,stayed right
+Cora,after Smooth,1958,5,5,-7.198023,-23.325504,stayed right
+Cora,after Smooth,1716,2,2,-35.059937,-5.145012,fixed
+Cora,after Smooth,1180,1,1,-13.104009,7.4346256,stayed right
+Cora,after Smooth,1557,2,2,-36.24042,-4.292996,stayed right
+Cora,after Smooth,1269,5,5,-5.857604,-21.62981,stayed right
+Cora,after Smooth,1319,3,0,2.5167449,-6.9662814,stayed wrong
+Cora,after Smooth,939,6,6,-9.8740635,-7.654671,stayed right
+Cora,after Smooth,1730,2,2,-32.46176,-3.248463,stayed right
+Cora,after Smooth,2605,3,3,9.713952,3.7407303,stayed right
+Cora,after Smooth,1031,3,3,15.978888,6.548248,stayed right
+Cora,after Smooth,1229,2,2,-41.36904,-3.027695,stayed right
+Cora,after Smooth,2204,3,3,22.591698,3.790977,stayed right
+Cora,after Smooth,2389,2,2,-31.670366,-3.6638722,stayed right
+Cora,after Smooth,321,3,3,18.430735,-0.07500912,fixed
+Cora,after Smooth,2517,5,5,-7.99415,-21.612713,stayed right
+Cora,after Smooth,370,5,5,-8.460425,-22.809034,stayed right
+Cora,after Smooth,1936,3,3,24.04663,3.830325,stayed right
+Cora,after Smooth,987,3,2,-26.43323,-5.3641524,broken
+Cora,after Smooth,1555,5,5,-7.536582,-22.25961,stayed right
+Cora,after Smooth,1593,6,6,-11.350838,-6.9179115,stayed right
+Cora,after Smooth,868,3,3,6.651734,-5.9665847,stayed right
+Cora,after Smooth,38,4,4,5.3668303,10.336896,stayed right
+Cora,after Smooth,1393,3,4,6.213804,12.101583,stayed wrong
+Cora,after Smooth,1537,5,5,-6.635291,-19.396101,stayed right
+Cora,after Smooth,1155,2,2,-34.20526,-3.088176,stayed right
+Cora,after Smooth,2509,3,3,22.89362,2.356877,stayed right
+Cora,after Smooth,1236,6,6,-11.609989,-7.412157,stayed right
+Cora,after Smooth,1674,6,6,-8.940966,-8.083039,stayed right
+Cora,after Smooth,148,4,4,1.0969205,22.87314,stayed right
+Cora,after Smooth,809,0,5,-3.6836522,-12.795816,stayed wrong
+Cora,after Smooth,2501,3,3,26.793367,4.682826,stayed right
+Cora,after Smooth,2073,0,0,3.7322345,-9.386594,fixed
+Cora,after Smooth,642,0,0,3.3958836,-8.976729,stayed right
+Cora,after Smooth,2370,3,3,22.093231,4.8674073,stayed right
+Cora,after Smooth,645,5,5,-5.6510005,-22.3516,stayed right
+Cora,after Smooth,840,5,5,-7.559413,-19.982737,stayed right
+Cora,after Smooth,968,1,3,12.731122,1.5650768,stayed wrong
+Cora,after Smooth,2070,0,0,-0.91377884,-9.49491,stayed right
+Cora,after Smooth,1192,3,3,5.981296,9.641866,fixed
+Cora,after Smooth,2209,6,6,-10.539618,-6.871794,fixed
+Cora,after Smooth,1253,1,1,-11.908511,6.268147,stayed right
+Cora,after Smooth,742,2,2,-28.355742,-4.7432942,fixed
+Cora,after Smooth,2219,0,0,5.108972,-9.760214,fixed
+Cora,after Smooth,6,0,0,4.9962673,-10.90435,stayed right
+Cora,after Smooth,2293,0,0,-1.3711475,-8.201204,stayed right
+Cora,after Smooth,637,3,3,10.048116,5.1410556,fixed
+Cora,after Smooth,419,5,5,-6.1537967,-15.165601,stayed right
+Cora,after Smooth,1883,5,5,-6.318631,-14.485698,stayed right
+Cora,after Smooth,1523,0,0,3.2677057,-6.8579054,stayed right
+Cora,after Smooth,1473,3,3,22.892946,4.8751965,stayed right
+Cora,after Smooth,232,3,3,20.273455,3.7194703,stayed right
+Cora,after Smooth,989,0,5,-3.6767573,-12.264474,broken
+Cora,after Smooth,530,0,1,-9.236772,3.3828638,broken
+Cora,after Smooth,2175,2,3,16.727562,2.2322884,stayed wrong
+Cora,after Smooth,319,3,2,-28.435848,-5.6737394,stayed wrong
+Cora,after Smooth,1445,3,3,16.668625,4.3406997,stayed right
+Cora,after Smooth,146,0,0,4.207714,-9.674769,stayed right
+Cora,after Smooth,452,1,1,-11.629362,7.563033,stayed right
+Cora,after Smooth,1448,1,1,-10.556717,8.093647,stayed right
+Cora,after Smooth,1647,6,6,-11.186043,-6.9401155,stayed right
+Cora,after Smooth,999,2,2,-32.455082,-3.6681,stayed right
+Cora,after Smooth,2144,1,1,-14.524451,9.227164,stayed right
+Cora,after Smooth,662,3,3,27.524197,5.5329304,stayed right
+Cora,after Smooth,887,1,1,-11.809483,7.4564323,stayed right
+Cora,after Smooth,1677,5,3,1.8772416,-4.626618,stayed wrong
+Cora,after Smooth,2540,3,3,18.38818,5.2538433,stayed right
+Cora,after Smooth,1138,4,4,0.7768759,20.78054,stayed right
+Cora,after Smooth,565,2,2,-40.951923,-3.6177726,fixed
+Cora,after Smooth,2627,2,2,-31.414793,-3.2443228,stayed right
+Cora,after Smooth,103,1,1,-13.332679,8.600361,stayed right
+Cora,after Smooth,320,4,3,6.0555325,10.336213,stayed wrong
+Cora,after Smooth,2361,3,3,8.141697,3.6058874,stayed right
+Cora,after Smooth,2244,3,3,14.7103405,3.9540682,stayed right
+Cora,after Smooth,381,4,4,0.296865,20.213629,stayed right
+Cora,after Smooth,2545,1,1,-10.793244,5.0764055,stayed right
+Cora,after Smooth,532,3,3,13.293162,4.2936134,stayed right
+Cora,after Smooth,487,1,1,-13.013884,9.822345,fixed
+Cora,after Smooth,1578,5,5,-5.509537,-14.72072,fixed
+Cora,after Smooth,1817,3,3,9.049949,4.737961,stayed right
+Cora,after Smooth,139,1,1,-13.833006,9.169108,stayed right
+Cora,after Smooth,132,5,5,-7.8813047,-22.749334,stayed right
+Cora,after Smooth,1437,4,4,1.1414249,16.955973,stayed right
+Cora,after Smooth,27,3,3,18.599249,0.18994178,stayed right
+Cora,after Smooth,2296,3,3,22.38818,4.2119126,stayed right
+Cora,after Smooth,1193,1,1,-11.394751,6.1133146,stayed right
+Cora,after Smooth,82,4,4,0.38283837,18.70295,stayed right
+Cora,after Smooth,114,5,5,-7.76068,-19.663416,stayed right
+Cora,after Smooth,2072,0,0,4.607362,-10.833071,stayed right
+Cora,after Smooth,1639,4,4,-0.49070072,22.04372,stayed right
+Cora,after Smooth,663,6,6,-7.1646996,-7.3063726,stayed right
+Cora,after Smooth,1009,1,1,-10.043498,5.7328734,fixed
+Cora,after Smooth,2060,5,5,-6.6132607,-17.673378,stayed right
+Cora,after Smooth,2369,3,3,17.923973,5.210612,stayed right
+Cora,after Smooth,1423,3,3,5.6705923,2.1738715,stayed right
+Cora,after Smooth,149,0,0,2.572435,-5.4753265,fixed
+Cora,after Smooth,2190,6,5,-5.891644,-13.556179,stayed wrong
+Cora,after Smooth,752,2,2,-30.112143,-6.6958284,fixed
+Cora,after Smooth,2518,4,4,0.12739329,24.791824,stayed right
+Cora,after Smooth,458,5,5,-8.104691,-24.0704,stayed right
+Cora,after Smooth,1486,2,2,-30.744766,-6.6838546,fixed
+Cora,after Smooth,569,2,2,-33.197617,-4.3998833,stayed right
+Cora,after Smooth,748,2,2,-39.65021,-4.6244826,stayed right
+Cora,after Smooth,526,2,2,-37.825485,-3.2771664,stayed right
+Cora,after Smooth,1496,3,3,29.621906,5.2471724,stayed right
+Cora,after Smooth,468,5,5,-7.3502374,-19.545317,stayed right
+Cora,after Smooth,2297,4,4,-0.6757325,23.705677,stayed right
+Cora,after Smooth,2610,3,3,11.725393,3.8483632,stayed right
+Cora,after Smooth,2473,4,4,-0.59330165,20.884413,stayed right
+Cora,after Smooth,2591,1,1,-12.952242,6.1271234,stayed right
+Cora,after Smooth,2220,2,2,-38.825584,-3.2816658,stayed right
+Cora,after Smooth,1297,3,3,17.265978,4.5407586,stayed right
+Cora,after Smooth,2674,4,4,0.21139164,19.1934,fixed
+Cora,after Smooth,2268,0,3,6.6112847,10.812772,stayed wrong
+Cora,after Smooth,1355,3,3,8.141217,2.4029546,stayed right
+Cora,after Smooth,201,3,3,27.418829,4.2175937,stayed right
+Cora,after Smooth,979,3,3,9.63639,0.09846119,fixed
+Cora,after Smooth,1430,2,2,-37.144943,-2.8634634,stayed right
+Cora,after Smooth,1070,2,5,-8.135913,-15.417539,stayed wrong
+Cora,after Smooth,19,3,3,12.651014,4.175291,stayed right
+Cora,after Smooth,717,0,0,-0.025168534,-6.091419,stayed right
+Cora,after Smooth,548,1,3,8.719029,-1.7614925,stayed wrong
+Cora,after Smooth,848,2,2,-30.833529,-6.8960805,stayed right
+Cora,after Smooth,50,5,5,-5.9818373,-14.435696,fixed
+Cora,after Smooth,945,1,5,-5.304594,-8.904368,stayed wrong
+Cora,after Smooth,1075,3,3,10.874746,4.9034705,stayed right
+Cora,after Smooth,1353,5,5,-25.978449,-5.552367,fixed
+Cora,after Smooth,1104,0,0,1.3665665,-5.528152,fixed
+Cora,after Smooth,524,2,2,-31.782888,-6.5343847,fixed
+Cora,after Smooth,76,5,0,-0.87043464,-9.481546,stayed wrong
+Cora,after Smooth,214,0,0,1.1009414,-9.001366,stayed right
+Cora,after Smooth,1820,3,3,14.204288,4.7623086,stayed right
+Cora,after Smooth,2341,4,3,6.635673,11.495315,broken
+Cora,after Smooth,2485,5,6,-6.3299127,-9.652998,broken
+Cora,after Smooth,1074,6,6,-8.619097,-7.4597597,stayed right
+Cora,after Smooth,2511,0,0,-9.151909,3.2187512,fixed
+Cora,after Smooth,362,4,4,1.5691665,15.517898,stayed right
+Cora,after Smooth,2633,3,3,29.910736,5.602242,stayed right
+Cora,after Smooth,937,1,1,-13.198803,7.4293804,stayed right
+Cora,after Smooth,1412,2,2,-32.23853,-5.643072,stayed right
+Cora,after Smooth,2054,0,0,7.1209435,-12.100783,stayed right
+Cora,after Smooth,401,3,3,0.86010736,4.8036857,stayed right
+Cora,after Smooth,26,6,6,-11.825539,-7.2260427,stayed right
+Cora,after Smooth,113,5,5,-6.9460926,-20.443716,stayed right
+Cora,after Smooth,2406,3,4,4.9211707,10.657767,broken
+Cora,after Smooth,1242,3,3,26.021496,5.0840693,stayed right
+Cora,after Smooth,1112,4,4,-0.7335341,22.120193,stayed right
+Cora,after Smooth,661,5,5,-5.8183045,-23.025263,fixed
+Cora,after Smooth,1251,1,1,-10.861852,8.066925,fixed
+Cora,after Smooth,1300,3,3,30.519703,4.431463,stayed right
+Cora,after Smooth,1034,2,2,-39.45709,-3.1353512,stayed right
+Cora,after Smooth,2264,4,4,-0.5460231,-5.5911603,stayed right
+Cora,after Smooth,597,3,0,0.3580882,-7.786829,stayed wrong
+Cora,after Smooth,609,2,2,-40.5296,-3.110864,stayed right
+Cora,after Smooth,1401,4,4,-0.38730517,23.14879,stayed right
+Cora,after Smooth,514,5,5,-4.2751436,-14.141053,fixed
+Cora,after Smooth,2082,1,1,-12.592066,6.437302,stayed right
+Cora,after Smooth,969,2,2,-32.238773,-5.643112,stayed right
+Cora,after Smooth,513,2,2,-35.903378,-3.779311,stayed right
+Cora,after Smooth,1293,0,0,2.500314,-9.292622,stayed right
+Cora,after Smooth,862,4,3,5.3522153,6.607835,stayed wrong
+Cora,after Smooth,2138,3,3,8.998081,5.8394394,fixed
+Cora,after Smooth,197,3,3,16.414389,4.6229014,stayed right
+Cora,after Smooth,882,2,2,-27.464167,-4.4454603,fixed
+Cora,after Smooth,2576,0,0,5.9998565,-12.080532,stayed right
+Cora,after Smooth,2371,3,3,19.39158,4.9094014,stayed right
+Cora,after Smooth,2259,4,4,0.36945197,22.296354,stayed right
+Cora,after Smooth,2051,0,0,2.921485,-9.479672,stayed right
+Cora,after Smooth,1261,4,4,2.9936953,11.245678,stayed right
+Cora,after Smooth,1086,3,3,19.506105,1.1489388,fixed
+Cora,after Smooth,2086,1,1,-12.566326,7.436108,stayed right
+Cora,after Smooth,159,3,3,14.097244,4.2850304,stayed right
+Cora,after Smooth,2656,2,2,-36.098183,-2.875294,stayed right
+Cora,after Smooth,1926,0,0,3.7732718,-10.797486,stayed right
+Cora,after Smooth,1178,4,4,0.58991206,12.735926,stayed right
+Cora,after Smooth,566,3,3,6.653907,5.0982585,stayed right
+Cora,after Smooth,1187,0,0,3.3275416,-7.352017,fixed
+Cora,after Smooth,2083,2,2,-39.95066,-4.1299567,stayed right
+Cora,after Smooth,2670,4,4,-0.36828482,21.973001,stayed right
+Cora,after Smooth,1685,2,2,-33.869762,-4.4740734,stayed right
+Cora,after Smooth,126,1,1,-12.347867,8.753705,stayed right
+Cora,after Smooth,2659,3,3,29.328573,5.271832,stayed right
+Cora,after Smooth,622,3,3,23.623009,3.2472694,stayed right
+Cora,after Smooth,2598,1,1,-11.511834,5.4154744,stayed right
+Cora,after Smooth,1409,5,5,-7.562351,-22.635422,stayed right
+Cora,after Smooth,251,3,3,28.64293,4.730943,stayed right
+Cora,after Smooth,485,0,0,6.284912,-11.471626,stayed right
+Cora,after Smooth,2202,0,0,5.9881034,-11.89246,stayed right
+Cora,after Smooth,2440,2,2,-36.469215,-4.5476885,fixed
+Cora,after Smooth,379,5,5,-7.32821,-23.081146,stayed right
+Cora,after Smooth,1805,1,1,-10.608734,6.8983164,fixed
+Cora,after Smooth,125,5,5,-7.395967,-20.793852,stayed right
+Cora,after Smooth,1398,2,2,-33.120388,-3.5371883,stayed right
+Cora,after Smooth,1147,3,3,29.65149,4.377861,stayed right
+Cora,after Smooth,2450,2,2,-39.310764,-4.726629,stayed right
+Cora,after Smooth,1366,4,4,-0.10817885,21.16377,stayed right
+Cora,after Smooth,996,4,4,0.016900394,24.308592,stayed right
+Cora,after Smooth,1824,5,5,-7.4078746,-23.715956,stayed right
+Cora,after Smooth,698,4,4,-0.0246855,15.16637,fixed
+Cora,after Smooth,693,0,0,3.8235106,-10.216734,stayed right
+Cora,after Smooth,683,1,2,-31.926188,-4.698086,stayed wrong
+Cora,after Smooth,1747,2,2,-32.673813,-3.116664,stayed right
+Cora,after Smooth,2351,4,4,1.9130425,22.174295,stayed right
+Cora,after Smooth,1963,5,5,-7.611596,-20.399755,stayed right
+Cora,after Smooth,1594,5,0,-3.467442,-7.109193,stayed wrong
+Cora,after Smooth,441,5,5,-5.4336686,-21.408068,fixed
+Cora,after Smooth,137,1,1,-14.36928,8.689896,stayed right
+Cora,after Smooth,1923,0,0,1.2865393,-7.4481936,fixed
+Cora,after Smooth,145,6,6,-11.336065,-6.706971,fixed
+Cora,after Smooth,2071,2,0,-2.873194,-9.78678,broken
+Cora,after Smooth,712,6,6,-8.873832,-7.2996955,stayed right
+Cora,after Smooth,855,3,3,21.909891,4.650635,stayed right
+Cora,after Smooth,2387,4,4,0.658632,22.82154,stayed right
+Cora,after Smooth,2272,5,5,-6.350351,-13.992041,fixed
+Cora,after Smooth,303,1,1,-11.937225,7.1582255,stayed right
+Cora,after Smooth,1403,3,3,5.67609,-0.018058876,fixed
+Cora,after Smooth,2429,1,4,-8.828625,10.345417,broken
+Cora,after Smooth,300,5,0,-0.43616828,-6.731178,stayed wrong
+Cora,after Smooth,2145,1,1,-13.75502,7.926357,stayed right
+Cora,after Smooth,584,4,4,-1.435424,22.546345,fixed
+Cora,after Smooth,68,2,2,-27.684326,-5.979568,fixed
+Cora,after Smooth,282,5,5,-7.1803055,-20.25238,stayed right
+Cora,after Smooth,1130,3,3,17.986418,4.4427037,stayed right
+Cora,after Smooth,328,2,2,-36.815933,-3.3182516,stayed right
+Cora,after Smooth,2638,6,6,-7.743054,-7.021186,stayed right
+Cora,after Smooth,699,3,1,-9.906184,7.595086,stayed wrong
+Cora,after Smooth,1429,4,4,0.26252738,19.05397,stayed right
+Cora,after Smooth,2616,2,2,-33.57221,-3.0801985,stayed right
+Cora,after Smooth,575,3,3,5.045396,1.3307631,fixed
+Cora,after Smooth,119,5,5,-7.7563705,-23.395157,stayed right
+Cora,after Smooth,1357,0,0,2.4288855,-7.763656,stayed right
+Cora,after Smooth,1025,0,0,1.7198223,-8.875264,fixed
+Cora,after Smooth,355,2,2,-28.777721,-3.6418166,stayed right
+Cora,after Smooth,2410,3,3,26.510078,4.288001,stayed right
+Cora,after Smooth,2569,3,3,26.12929,3.5816336,stayed right
+Cora,after Smooth,523,4,4,4.724763,12.830179,stayed right
+Cora,after Smooth,714,4,4,5.4528513,11.052276,fixed
+Cora,after Smooth,199,4,3,6.9370627,6.449423,stayed wrong
+Cora,after Smooth,2155,0,0,2.7127156,-12.110422,stayed right
+Cora,after Smooth,1307,4,4,-0.5538629,16.105303,stayed right
+Cora,after Smooth,2074,0,0,5.8100953,-11.588715,stayed right
+Cora,after Smooth,1032,5,5,-8.681716,-23.532843,stayed right
+Cora,after Smooth,2063,3,3,28.810993,4.7887936,stayed right
+Cora,after Smooth,1008,0,0,4.6569767,-10.242941,stayed right
+Cora,after Smooth,245,4,4,4.9027433,13.076577,fixed
+Cora,after Smooth,1871,3,3,9.869785,0.92705226,stayed right
+Cora,after Smooth,1987,3,3,19.520048,3.6564384,stayed right
+Cora,after Smooth,656,1,1,-10.613363,5.4984307,fixed
+Cora,after Smooth,852,0,1,-9.284588,5.067832,stayed wrong
+Cora,after Smooth,965,0,0,6.3882794,-12.148365,stayed right
+Cora,after Smooth,1803,0,0,3.272082,-10.973933,stayed right
+Cora,after Smooth,1687,2,2,-32.227814,-7.3126435,fixed
+Cora,after Smooth,1345,2,2,-31.039467,-7.173336,fixed
+Cora,after Smooth,59,2,2,-40.755264,-3.2170603,stayed right
+Cora,after Smooth,1575,3,4,1.7668464,15.875754,stayed wrong
+Cora,after Smooth,292,0,0,5.5346193,-8.966999,fixed
+Cora,after Smooth,165,3,3,22.897038,4.874352,stayed right
+Cora,after Smooth,90,2,2,-37.194294,-3.9189632,stayed right
+Cora,after Smooth,905,2,2,-30.786964,-4.9970374,stayed right
+Cora,after Smooth,1535,0,0,-2.164202,-8.232161,stayed right
+Cora,after Smooth,312,2,2,-30.92848,-2.499238,fixed
+Cora,after Smooth,730,0,3,6.385039,5.9598618,stayed wrong
+Cora,after Smooth,1778,1,1,-13.613329,8.9839,stayed right
+Cora,after Smooth,1090,3,3,29.891415,4.5826917,stayed right
+Cora,after Smooth,704,2,2,-33.07132,-6.267899,fixed
+Cora,after Smooth,128,5,5,-8.381699,-22.297173,stayed right
+Cora,after Smooth,618,3,3,15.453684,2.8633661,stayed right
+Cora,after Smooth,2240,4,4,-0.0054713227,24.060783,stayed right
+Cora,after Smooth,1891,4,4,5.0223346,10.369541,stayed right
+Cora,after Smooth,904,5,5,-8.187638,-23.849602,stayed right
+Cora,after Smooth,680,0,0,0.9969837,-6.726053,fixed
+Cora,after Smooth,1066,3,3,9.052533,3.2819602,stayed right
+Cora,after Smooth,2249,4,4,0.5718456,23.515373,stayed right
+Cora,after Smooth,1889,4,3,7.1468434,11.729859,stayed wrong
+Cora,after Smooth,1796,4,4,-0.7644478,23.095152,stayed right
+Cora,after Smooth,2214,3,3,17.226015,2.960862,stayed right
+Cora,after Smooth,386,3,3,16.331089,5.965585,stayed right
+Cora,after Smooth,1233,2,2,-30.720459,0.35683027,stayed right
+Cora,after Smooth,755,5,0,-2.8245378,-10.567471,stayed wrong
+Cora,after Smooth,504,6,6,-7.6516075,-8.208669,fixed
+Cora,after Smooth,557,2,2,-28.935846,-3.9831276,stayed right
+Cora,after Smooth,2125,3,3,22.979502,2.5191698,stayed right
+Cora,after Smooth,2164,6,6,-8.230974,-7.6819286,stayed right
+Cora,after Smooth,1644,0,0,0.20816505,-8.064298,stayed right
+Cora,after Smooth,1427,2,2,-36.839054,-3.7545362,stayed right
+Cora,after Smooth,178,3,3,11.680273,4.0061994,stayed right
+Cora,after Smooth,1819,3,3,19.313875,4.6127176,stayed right
+Cora,after Smooth,2474,4,4,-0.69036615,20.89838,stayed right
+Cora,after Smooth,79,0,3,4.068631,6.845574,stayed wrong
+Cora,after Smooth,899,3,3,15.604888,6.7658076,fixed
+Cora,after Smooth,794,0,4,6.0228963,10.717509,stayed wrong
+Cora,after Smooth,2097,0,4,0.04681602,11.469818,stayed wrong
+Cora,after Smooth,342,1,6,-5.472309,-7.905423,stayed wrong
+Cora,after Smooth,1559,4,4,1.347255,19.228758,stayed right
+Cora,after Smooth,675,4,4,1.0658566,13.236313,stayed right
+Cora,after Smooth,1621,3,3,5.7118526,9.437182,fixed
+Cora,after Smooth,2129,3,3,18.539463,0.4263201,fixed
+Cora,after Smooth,1286,4,0,0.2392634,-2.3789072,stayed wrong
+Cora,after Smooth,1920,0,0,-5.0076404,-10.206911,fixed
+Cora,after Smooth,1441,5,5,-7.410253,-24.883228,stayed right
+Cora,after Smooth,2012,3,3,4.7675524,0.7308734,stayed right
+Cora,after Smooth,2119,3,4,3.9924483,10.689992,stayed wrong
+Cora,after Smooth,186,0,0,7.254582,-11.724056,stayed right
+Cora,after Smooth,2503,2,2,-39.757626,-3.2220762,stayed right
+Cora,after Smooth,1372,6,6,-8.991584,-7.5504274,stayed right
+Cora,after Smooth,1870,3,3,16.618961,5.0267634,stayed right
+Cora,after Smooth,1565,2,2,-29.318272,-4.407312,fixed
+Cora,after Smooth,2418,0,0,5.218572,-10.563192,stayed right
+Cora,after Smooth,304,0,3,5.8783193,-0.3358665,stayed wrong
+Cora,after Smooth,500,3,3,10.062309,3.597391,stayed right
+Cora,after Smooth,2203,0,0,3.936252,-11.643003,stayed right
+Cora,after Smooth,1489,2,3,8.877295,1.1886411,broken
+Cora,after Smooth,2285,5,5,-6.374475,-19.959936,stayed right
+Cora,after Smooth,1744,2,2,-31.956972,-3.2850652,stayed right
+Cora,after Smooth,432,3,3,14.107612,7.1613874,stayed right
+Cora,after Smooth,2066,3,3,22.993734,1.7547609,stayed right
+Cora,after Smooth,2632,3,3,18.38818,5.2538443,stayed right
+Cora,after Smooth,2039,3,3,9.601233,6.809865,stayed right
+Cora,after Smooth,774,4,4,-0.13841277,20.702387,stayed right
+Cora,after Smooth,2377,1,2,-27.28318,-4.695049,stayed wrong
+Cora,after Smooth,2672,4,4,1.4458103,16.321962,stayed right
+Cora,after Smooth,1388,0,0,6.8194427,-12.314936,stayed right
+Cora,after Smooth,211,0,0,-2.5059495,-11.290387,fixed
+Cora,after Smooth,679,0,0,1.2797264,-8.39813,stayed right
+Cora,after Smooth,1981,0,0,-1.6878912,-10.16713,stayed right
+Cora,after Smooth,318,1,1,-10.034524,7.8406434,stayed right
+Cora,after Smooth,2308,3,3,21.301928,2.32101,stayed right
+Cora,after Smooth,2064,3,3,18.279037,4.7956347,stayed right
+Cora,after Smooth,1795,4,4,-0.27505052,25.458231,stayed right
+Cora,after Smooth,771,0,0,2.8180518,-5.757571,fixed
+Cora,after Smooth,1356,3,3,7.23211,-6.0796604,stayed right
+Cora,after Smooth,2434,4,4,-1.7119994,20.433817,fixed
+Cora,after Smooth,1957,3,3,8.662282,-1.8552097,fixed
+Cora,after Smooth,1231,3,3,29.440758,6.0646443,stayed right
+Cora,after Smooth,2400,4,4,0.84166485,17.161577,stayed right
+Cora,after Smooth,1436,5,4,1.2440649,16.250849,stayed wrong
+Cora,after Smooth,1703,4,4,0.6395896,25.62027,stayed right
+Cora,after Smooth,481,2,2,-28.997316,-6.786251,stayed right
+Cora,after Smooth,424,5,3,4.5930247,0.7580543,stayed wrong
+Cora,after Smooth,2076,3,3,22.45879,3.1513817,stayed right
+Cora,after Smooth,1998,5,3,0.39057228,4.8683834,stayed wrong
+Cora,after Smooth,2679,4,4,-0.4410022,24.665688,stayed right
+Cora,after Smooth,606,0,3,20.622927,0.7459251,stayed wrong
+Cora,after Smooth,1438,3,3,29.61927,5.246061,stayed right
+Cora,after Smooth,1364,3,3,12.458025,4.1872034,stayed right
+Cora,after Smooth,1733,2,2,-27.683954,-4.7286797,stayed right
+Cora,after Smooth,1203,0,3,-3.0021114,-12.352916,stayed wrong
+Cora,after Smooth,1755,2,2,-35.108444,-3.4237568,stayed right
+Cora,after Smooth,433,3,3,6.9120865,2.2878141,stayed right
+Cora,after Smooth,2224,4,4,-2.2860548,20.4699,fixed
+Cora,after Smooth,2213,3,3,13.967376,7.1830106,fixed
+Cora,after Smooth,2340,3,3,14.947013,4.7530065,stayed right
+Cora,after Smooth,326,2,2,-34.749924,-3.513162,stayed right
+Cora,after Smooth,1789,1,1,-9.422025,9.541991,stayed right
+Cora,after Smooth,2245,3,3,15.012003,3.6182103,stayed right
+Cora,after Smooth,2433,2,4,-30.694672,0.39914703,stayed wrong
+Cora,after Smooth,846,3,3,26.212908,5.129015,stayed right
+Cora,after Smooth,1560,1,1,-12.731369,7.0595117,stayed right
+Cora,after Smooth,1361,2,2,-33.09483,-3.555747,stayed right
+Cora,after Smooth,55,4,0,0.628206,-3.5178154,broken
+Cora,after Smooth,2486,3,3,27.259008,5.003597,stayed right
+Cora,after Smooth,2512,2,2,-30.422722,-3.42941,stayed right
+Cora,after Smooth,1329,3,3,5.6439505,9.978107,fixed
+Cora,after Smooth,2451,2,2,-40.628445,-3.6614957,stayed right
+Cora,after Smooth,2273,5,5,-6.2267,-15.2564945,stayed right
+Cora,after Smooth,1206,4,4,0.3287339,18.076418,stayed right
+Cora,after Smooth,893,4,4,1.0261058,21.173409,stayed right
+Cora,after Smooth,1701,3,3,31.36298,3.8100784,stayed right
+Cora,after Smooth,1628,0,0,7.707287,-12.539203,stayed right
+Cora,after Smooth,1935,3,3,24.926548,4.2403173,stayed right
+Cora,after Smooth,1983,0,0,0.8626292,-4.9894032,fixed
+Cora,after Smooth,1218,0,0,3.4254067,-9.943757,stayed right
+Cora,after Smooth,229,3,3,15.6775675,2.0082128,fixed
+Cora,after Smooth,749,4,0,-0.18204425,-8.936222,stayed wrong
+Cora,after Smooth,902,2,2,-35.189503,-3.7962852,stayed right
+Cora,after Smooth,2122,4,4,2.910424,21.853333,stayed right
+Cora,after Smooth,2168,1,2,-39.946423,-3.8605344,stayed wrong
+Cora,after Smooth,476,1,1,-11.768498,8.834236,stayed right
+Cora,after Smooth,1108,3,3,29.044115,5.574289,stayed right
+Cora,after Smooth,14,3,3,21.950003,2.9353216,stayed right
+Cora,after Smooth,2533,0,3,11.648805,3.501222,stayed wrong
+Cora,after Smooth,1342,4,4,-0.3055986,19.673185,stayed right
+Cora,after Smooth,1016,3,3,23.807333,5.820994,stayed right
+Cora,after Smooth,586,0,0,3.0548635,-10.0766115,stayed right
+Cora,after Smooth,966,0,0,0.33880398,-7.573811,stayed right
+Cora,after Smooth,1106,3,3,20.447842,4.539067,stayed right
+Cora,after Smooth,1529,4,4,0.18016459,14.329338,stayed right
+Cora,after Smooth,983,4,4,3.0484576,11.162786,stayed right
+Cora,after Smooth,1386,3,3,30.491005,5.3798666,stayed right
+Cora,after Smooth,1341,0,3,5.8222513,1.4085473,stayed wrong
+Cora,after Smooth,1170,6,6,-11.406764,-7.533052,stayed right
+Cora,after Smooth,891,6,6,-8.662087,-8.489006,stayed right
+Cora,after Smooth,1857,3,3,8.901945,1.061585,stayed right
+Cora,after Smooth,2673,4,4,-0.33711675,20.369717,stayed right
+Cora,after Smooth,1727,2,2,-34.690456,-4.324542,stayed right
+Cora,after Smooth,397,3,3,0.931532,4.8770547,stayed right
+Cora,after Smooth,707,0,0,1.1990044,-8.559552,stayed right
+Cora,after Smooth,1021,4,3,-5.6828527,-6.1300554,stayed wrong
+Cora,after Smooth,86,4,3,6.522672,7.934658,stayed wrong
+Cora,after Smooth,359,2,2,-30.150734,-4.486844,stayed right
+Cora,after Smooth,1760,2,2,-29.568092,-4.270571,fixed
+Cora,after Smooth,1530,4,4,-0.3688754,23.015308,stayed right
+Cora,after Smooth,1158,1,4,-8.843742,10.323705,stayed wrong
+Cora,after Smooth,689,2,2,-38.02308,-3.7000012,stayed right
+Cora,after Smooth,1402,6,6,-9.22848,-7.479762,stayed right
+Cora,after Smooth,1305,2,2,-32.119293,-3.505314,stayed right
+Cora,after Smooth,78,4,4,5.511503,11.334985,stayed right
+Cora,after Smooth,676,5,5,-8.2260065,-22.018509,stayed right
+Cora,after Smooth,543,0,0,-0.8773747,-5.8451247,fixed
+Cora,after Smooth,921,6,6,-7.9922104,-7.5410094,stayed right
+Cora,after Smooth,1781,1,1,-12.112879,8.096622,stayed right
+Cora,after Smooth,2093,1,1,-9.994339,7.078712,fixed
+Cora,after Smooth,1470,5,5,-6.9719963,-22.362436,stayed right
+Cora,after Smooth,1595,3,3,8.299774,3.7062716,stayed right
+Cora,after Smooth,2662,4,4,-0.685831,24.257652,stayed right
+Cora,after Smooth,1451,4,4,-0.5360262,19.894876,stayed right
+Cora,after Smooth,1247,3,3,12.290744,3.6575792,stayed right
+Cora,after Smooth,1368,5,5,-5.253977,-14.930605,stayed right
+Cora,after Smooth,1516,2,2,-34.060345,-3.450547,stayed right
+Cora,after Smooth,702,6,0,-2.831354,-9.0543,stayed wrong
+Cora,after Smooth,2498,4,4,0.36195147,16.440117,fixed
+Cora,after Smooth,269,3,3,28.621485,3.792954,stayed right
+Cora,after Smooth,411,3,3,23.296436,4.463076,stayed right
+Cora,after Smooth,2008,3,3,9.995511,5.9833274,stayed right
+Cora,after Smooth,2675,4,4,0.037763517,20.17113,stayed right
+Cora,after Smooth,1266,4,4,0.7629129,12.79774,stayed right
+Cora,after Smooth,1640,1,1,-11.705873,6.763575,stayed right
+Cora,after Smooth,1249,2,2,-30.145794,-6.6142135,fixed
+Cora,after Smooth,838,0,0,4.5402155,-8.377874,stayed right
+Cora,after Smooth,2600,3,3,29.778591,5.992193,stayed right
+Cora,after Smooth,207,3,3,11.678888,4.0046396,stayed right
+Cora,after Smooth,285,3,3,6.01278,1.881728,stayed right
+Cora,after Smooth,337,2,2,-32.427814,-5.346122,stayed right
+Cora,after Smooth,786,4,3,13.671287,0.30782127,stayed wrong
+Cora,after Smooth,105,2,2,-37.42663,-3.4717793,stayed right
+Cora,after Smooth,1015,4,4,2.0501323,23.197277,stayed right
+Cora,after Smooth,953,3,3,24.233728,1.9669394,fixed
+Cora,after Smooth,564,2,2,-34.311913,-4.149224,stayed right
+Cora,after Smooth,2002,4,3,6.6746516,8.678229,stayed wrong
+Cora,after Smooth,761,4,4,0.68930143,17.780516,stayed right
+Cora,after Smooth,2612,2,2,-36.056206,-3.1970387,stayed right
+Cora,after Smooth,1922,0,0,2.0501156,-7.019183,fixed
+Cora,after Smooth,1867,3,3,14.293414,4.7327943,stayed right
+Cora,after Smooth,41,6,6,-7.5005293,-8.849669,fixed
+Cora,after Smooth,2106,1,1,-11.95593,5.869671,stayed right
+Cora,after Smooth,1623,1,1,-14.40952,10.06139,stayed right
+Cora,after Smooth,1184,5,5,-4.819629,-14.161031,fixed
+Cora,after Smooth,2497,5,5,-6.37434,-20.356277,stayed right
+Cora,after Smooth,2686,3,3,20.895803,5.543151,stayed right
+Cora,after Smooth,31,6,0,-3.5978673,-7.0957155,broken
+Cora,after Smooth,678,3,3,4.454318,7.1559887,fixed
+Cora,after Smooth,2011,3,3,6.873284,3.1398594,stayed right
+Cora,after Smooth,305,0,0,2.1109014,-8.419696,stayed right
+Cora,after Smooth,604,6,6,-7.805724,-8.0260725,stayed right
+Cora,after Smooth,1101,3,3,30.525192,5.135803,stayed right
+Cora,after Smooth,1767,1,1,-12.043753,6.169696,stayed right
+Cora,after Smooth,1737,2,2,-39.53581,-3.3785002,stayed right
+Cora,after Smooth,1185,3,3,29.230673,4.062643,stayed right
+Cora,after Smooth,1704,3,3,6.7093816,7.8510003,fixed
+Cora,after Smooth,695,3,3,0.6680876,4.156311,fixed
+Cora,after Smooth,1959,5,5,-8.06108,-22.986526,stayed right
+Cora,after Smooth,153,1,1,-12.342961,8.460451,stayed right
+Cora,after Smooth,2411,3,3,26.40655,4.179951,stayed right
+Cora,after Smooth,2409,2,3,13.870042,2.4655685,broken
+Cora,after Smooth,352,3,3,20.127548,4.682539,stayed right
+Cora,after Smooth,1119,3,3,30.671537,3.4295702,stayed right
+Cora,after Smooth,2320,3,3,4.4017806,3.7518663,stayed right
+Cora,after Smooth,1472,3,3,19.366823,0.8760759,stayed right
+Cora,after Smooth,510,3,3,6.2934675,1.3588549,stayed right
+Cora,after Smooth,1374,0,2,-27.49105,-3.6946013,broken
+Cora,after Smooth,1650,5,5,-8.641672,-23.014515,stayed right
+Texas,Z,165,3,3,-9.348353,-3.2494385,stayed right
+Texas,Z,54,3,4,-7.8068004,-0.96301466,stayed wrong
+Texas,Z,130,0,0,-1.1663325,-8.651604,stayed right
+Texas,Z,9,0,0,-1.2452588,-8.05115,stayed right
+Texas,Z,0,3,4,-8.119543,-2.546055,stayed wrong
+Texas,Z,50,0,0,-0.5774925,-8.767599,stayed right
+Texas,Z,4,4,4,-7.126138,1.4678648,stayed right
+Texas,Z,52,3,0,-3.188224,-6.410094,stayed wrong
+Texas,Z,16,3,0,-3.7445652,-5.959057,stayed wrong
+Texas,Z,158,0,0,-0.81680274,-8.070205,stayed right
+Texas,Z,53,3,4,-8.308818,-1.7531664,stayed wrong
+Texas,Z,21,3,3,-11.186649,-4.7204447,stayed right
+Texas,Z,2,2,3,-11.540428,-4.3678136,stayed wrong
+Texas,Z,7,0,0,-0.78462785,-9.473866,stayed right
+Texas,Z,147,2,2,-7.0136676,-3.3696673,broken
+Texas,Z,111,0,0,-0.42295817,-9.468102,stayed right
+Texas,Z,144,3,4,-7.530296,1.0023211,stayed wrong
+Texas,Z,60,4,4,-7.0886617,1.7803947,stayed right
+Texas,Z,40,0,0,-0.12043577,-8.463623,stayed right
+Texas,Z,27,3,0,-3.9531484,-5.8120337,fixed
+Texas,Z,35,4,4,-7.781921,1.5525572,stayed right
+Texas,Z,89,3,4,-7.7831874,-0.6688479,stayed wrong
+Texas,Z,115,3,3,-8.795469,-2.9391837,broken
+Texas,Z,157,2,0,-2.532226,-7.0184784,stayed wrong
+Texas,Z,125,2,2,-6.9428124,-3.481032,broken
+Texas,Z,174,0,0,0.025743261,-9.386502,stayed right
+Texas,Z,14,3,4,-7.7846074,-0.543861,stayed wrong
+Texas,Z,110,3,3,-11.539911,-4.862777,stayed right
+Texas,Z,100,0,0,0.20061973,-8.885915,stayed right
+Texas,Z,5,3,3,-11.073562,-4.3375487,stayed right
+Texas,Z,24,3,4,-8.180446,-2.347926,stayed wrong
+Texas,Z,71,3,4,-6.8921757,-1.8157507,stayed wrong
+Texas,Z,11,3,3,-11.700085,-4.6272254,stayed right
+Texas,Z,173,2,3,-9.992533,-3.7671452,stayed wrong
+Texas,Z,88,0,0,-1.9258226,-7.5740943,stayed right
+Texas,Z,85,4,4,-7.404384,2.0348473,stayed right
+Texas,Z,149,4,4,-7.778944,1.8316846,stayed right
+Texas,Z,18,0,0,-1.4742596,-8.631284,stayed right
+Texas,after Correct,165,3,3,-3.175485,-1.0837009,stayed right
+Texas,after Correct,54,3,4,-1.0309553,-2.7946448,stayed wrong
+Texas,after Correct,130,0,0,3.6571634,6.571699,stayed right
+Texas,after Correct,9,0,0,3.762276,5.9507046,stayed right
+Texas,after Correct,0,3,4,-1.731551,-1.4085206,stayed wrong
+Texas,after Correct,50,0,0,4.5111837,6.537666,stayed right
+Texas,after Correct,4,4,4,0.23466544,-5.028006,stayed right
+Texas,after Correct,52,3,0,2.2087748,3.8431888,stayed wrong
+Texas,after Correct,16,3,0,1.768504,3.2576458,stayed wrong
+Texas,after Correct,158,0,0,4.171397,6.045155,stayed right
+Texas,after Correct,53,3,4,-1.7324886,-2.1976354,stayed wrong
+Texas,after Correct,21,3,3,-5.3769565,-0.15533023,stayed right
+Texas,after Correct,2,2,3,-5.6086726,-0.6182585,stayed wrong
+Texas,after Correct,7,0,0,4.0066466,7.5371428,stayed right
+Texas,after Correct,147,2,2,-0.96037555,-0.23254381,broken
+Texas,after Correct,111,0,0,4.69838,7.147138,stayed right
+Texas,after Correct,144,3,4,-0.2622683,-4.663265,stayed wrong
+Texas,after Correct,60,4,4,0.36858884,-5.324439,stayed right
+Texas,after Correct,40,0,0,3.9212089,7.196793,stayed right
+Texas,after Correct,27,3,0,1.6086918,3.058765,fixed
+Texas,after Correct,35,4,4,-0.4012158,-5.2560687,stayed right
+Texas,after Correct,89,3,4,-0.9311152,-3.0904288,stayed wrong
+Texas,after Correct,115,3,3,-2.5393586,-1.2130773,broken
+Texas,after Correct,157,2,0,2.6975734,4.606616,stayed wrong
+Texas,after Correct,125,2,2,-0.9164573,-0.10717682,broken
+Texas,after Correct,174,0,0,4.595525,7.627985,stayed right
+Texas,after Correct,14,3,4,-0.8902202,-3.2119167,stayed wrong
+Texas,after Correct,110,3,3,-5.771312,-0.13519686,stayed right
+Texas,after Correct,100,0,0,5.026742,6.956737,stayed right
+Texas,after Correct,5,3,3,-5.158912,-0.50461805,stayed right
+Texas,after Correct,24,3,4,-1.7824434,-1.5895919,stayed wrong
+Texas,after Correct,71,3,4,-0.37900144,-1.721326,stayed wrong
+Texas,after Correct,11,3,3,-5.8633037,-0.41532347,stayed right
+Texas,after Correct,173,2,3,-3.956776,-0.7825936,stayed wrong
+Texas,after Correct,88,0,0,3.1780207,5.312382,stayed right
+Texas,after Correct,85,4,4,-0.28460467,-5.598546,stayed right
+Texas,after Correct,149,4,4,0.10142777,-5.619485,stayed right
+Texas,after Correct,18,0,0,3.453012,6.3850617,stayed right
+Texas,after Smooth,165,3,3,1.64094,6.081322,stayed right
+Texas,after Smooth,54,3,4,-0.86138415,8.630583,stayed wrong
+Texas,after Smooth,130,0,0,-3.1915615,-13.064462,stayed right
+Texas,after Smooth,9,0,0,-3.1687849,-7.1465282,stayed right
+Texas,after Smooth,0,3,0,4.7706184,-11.915582,stayed wrong
+Texas,after Smooth,50,0,0,1.0288264,-3.701905,stayed right
+Texas,after Smooth,4,4,4,-3.850304,1.4501195,stayed right
+Texas,after Smooth,52,3,0,4.461023,-8.596076,stayed wrong
+Texas,after Smooth,16,3,0,-4.4329867,-1.664576,stayed wrong
+Texas,after Smooth,158,0,0,-3.172329,-9.573276,stayed right
+Texas,after Smooth,53,3,4,-0.7767236,6.146007,stayed wrong
+Texas,after Smooth,21,3,3,3.4910827,6.488791,stayed right
+Texas,after Smooth,2,2,3,5.872834,4.133991,stayed wrong
+Texas,after Smooth,7,0,0,-4.526838,-8.299841,stayed right
+Texas,after Smooth,147,2,4,1.516556,9.283341,broken
+Texas,after Smooth,111,0,0,-1.4975411,-10.707857,stayed right
+Texas,after Smooth,144,3,4,-3.9304132,3.1814039,stayed wrong
+Texas,after Smooth,60,4,4,-1.9884872,3.7314937,stayed right
+Texas,after Smooth,40,0,0,-2.548606,-14.3283,stayed right
+Texas,after Smooth,27,3,3,4.7905045,-7.2309823,fixed
+Texas,after Smooth,35,4,4,-4.58188,8.287784,stayed right
+Texas,after Smooth,89,3,4,-1.6074238,7.355273,stayed wrong
+Texas,after Smooth,115,3,0,3.0805686,-8.425387,broken
+Texas,after Smooth,157,2,0,0.6039667,-10.127992,stayed wrong
+Texas,after Smooth,125,2,3,-0.35108534,10.110894,broken
+Texas,after Smooth,174,0,0,-0.11311967,-11.658111,stayed right
+Texas,after Smooth,14,3,0,-0.8587912,-8.527087,stayed wrong
+Texas,after Smooth,110,3,3,4.6023083,4.6919045,stayed right
+Texas,after Smooth,100,0,0,-1.1545438,-12.973738,stayed right
+Texas,after Smooth,5,3,3,1.9496377,-2.5031512,stayed right
+Texas,after Smooth,24,3,0,-1.942694,-4.4899154,stayed wrong
+Texas,after Smooth,71,3,4,-3.5575545,6.580998,stayed wrong
+Texas,after Smooth,11,3,3,6.1562943,5.8768682,stayed right
+Texas,after Smooth,173,2,3,8.097659,6.310436,stayed wrong
+Texas,after Smooth,88,0,0,3.720189,-11.465172,stayed right
+Texas,after Smooth,85,4,4,-5.0913076,1.8631266,stayed right
+Texas,after Smooth,149,4,4,-3.699617,9.1877775,stayed right
+Texas,after Smooth,18,0,0,1.1287578,-5.177453,stayed right

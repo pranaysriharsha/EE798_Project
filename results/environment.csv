@@ -1,0 +1,14 @@
+item,value
+CPU,12th Gen Intel(R) Core(TM) i7-1260P
+Physical cores / threads,12 / 16
+RAM,16 GiB
+GPU,none (CPU only)
+Operating system,Windows 11
+Python,3.12.6
+PyTorch,2.14.1+cpu
+PyTorch Geometric,2.8.0.post1
+NumPy,2.5.3
+SciPy,1.18.1
+scikit-learn,1.9.1
+pandas,3.0.6
+matplotlib,3.11.2

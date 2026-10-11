@@ -1,0 +1,78 @@
+  Cora seed 0:  20.6 s | Linear+C&S 85.82  MLP+C&S 85.82  GCN 86.37  LP 82.87
+  Cora seed 1:  23.2 s | Linear+C&S 87.85  MLP+C&S 87.29  GCN 88.03  LP 83.98
+  Cora seed 2:  22.8 s | Linear+C&S 90.98  MLP+C&S 89.69  GCN 87.85  LP 85.27
+  Cora seed 3:  22.6 s | Linear+C&S 86.56  MLP+C&S 85.82  GCN 86.92  LP 83.79
+  Cora seed 4:  23.0 s | Linear+C&S 87.85  MLP+C&S 86.37  GCN 88.03  LP 85.45
+  Cora seed 5:  23.0 s | Linear+C&S 88.21  MLP+C&S 87.85  GCN 85.27  LP 82.87
+  Cora seed 6:  22.5 s | Linear+C&S 88.95  MLP+C&S 86.74  GCN 86.37  LP 84.16
+  Cora seed 7:  22.4 s | Linear+C&S 88.58  MLP+C&S 87.48  GCN 88.21  LP 84.35
+  Cora seed 8:  22.6 s | Linear+C&S 88.77  MLP+C&S 89.13  GCN 89.87  LP 84.71
+  Cora seed 9:  23.3 s | Linear+C&S 87.85  MLP+C&S 88.40  GCN 87.66  LP 84.71
+Cora done in 226 s (total 226 s)
+  Citeseer seed 0:  44.5 s | Linear+C&S 75.23  MLP+C&S 74.47  GCN 76.13  LP 69.82
+  Citeseer seed 1:  45.7 s | Linear+C&S 77.48  MLP+C&S 76.58  GCN 76.43  LP 71.32
+  Citeseer seed 2:  42.6 s | Linear+C&S 77.18  MLP+C&S 75.68  GCN 76.73  LP 70.27
+  Citeseer seed 3:  44.9 s | Linear+C&S 76.73  MLP+C&S 75.68  GCN 77.03  LP 69.97
+  Citeseer seed 4:  45.0 s | Linear+C&S 76.88  MLP+C&S 74.62  GCN 75.68  LP 69.82
+  Citeseer seed 5:  46.8 s | Linear+C&S 78.08  MLP+C&S 75.23  GCN 76.58  LP 69.22
+  Citeseer seed 6:  45.2 s | Linear+C&S 76.73  MLP+C&S 74.77  GCN 75.53  LP 69.22
+  Citeseer seed 7:  53.1 s | Linear+C&S 77.63  MLP+C&S 76.28  GCN 75.68  LP 68.02
+  Citeseer seed 8:  51.3 s | Linear+C&S 78.98  MLP+C&S 77.18  GCN 78.98  LP 70.42
+  Citeseer seed 9:  49.9 s | Linear+C&S 78.98  MLP+C&S 76.58  GCN 78.68  LP 70.57
+Citeseer done in 469 s (total 696 s)
+  Pubmed seed 0: 103.8 s | Linear+C&S 84.15  MLP+C&S 88.84  GCN 86.99  LP 82.96
+  Pubmed seed 1: 106.3 s | Linear+C&S 83.80  MLP+C&S 89.78  GCN 87.65  LP 83.09
+  Pubmed seed 2: 108.5 s | Linear+C&S 84.10  MLP+C&S 89.07  GCN 87.40  LP 82.91
+  Pubmed seed 3: 107.3 s | Linear+C&S 84.03  MLP+C&S 88.79  GCN 87.37  LP 83.14
+  Pubmed seed 4: 103.3 s | Linear+C&S 84.51  MLP+C&S 89.25  GCN 88.03  LP 83.32
+  Pubmed seed 5: 106.8 s | Linear+C&S 85.65  MLP+C&S 89.48  GCN 88.08  LP 84.31
+  Pubmed seed 6: 106.7 s | Linear+C&S 84.20  MLP+C&S 88.77  GCN 87.65  LP 83.09
+  Pubmed seed 7: 104.1 s | Linear+C&S 84.23  MLP+C&S 88.06  GCN 86.94  LP 82.94
+  Pubmed seed 8: 106.4 s | Linear+C&S 85.19  MLP+C&S 88.74  GCN 87.22  LP 84.31
+  Pubmed seed 9: 104.0 s | Linear+C&S 84.10  MLP+C&S 88.49  GCN 87.35  LP 83.37
+Pubmed done in 1058 s (total 1754 s)
+
+A. Reproduction: ours (mean +- std over splits) vs paper; '!' marks |gap| > 3 points
+Method                                     Cora                         Citeseer                           Pubmed
+Linear           75.87 +- 1.90 |  73.85  +2.02    70.77 +- 0.76 |  70.27  +0.50    83.22 +- 0.65 |  87.10  -3.88!
+MLP              72.69 +- 1.76 |  74.21  -1.52    68.68 +- 0.69 |  69.34  -0.66    86.81 +- 0.49 |  86.73  +0.08 
+LP               84.22 +- 0.88 |  86.50  -2.28    69.86 +- 0.90 |  70.64  -0.78    83.34 +- 0.53 |  83.74  -0.40 
+GCN              87.46 +- 1.28 |  85.77  +1.69    76.74 +- 1.21 |  73.68  +3.06!   87.47 +- 0.39 |  88.13  -0.66 
+Linear + C       78.38 +- 1.71 |  79.56  -1.18    71.80 +- 0.54 |  72.56  -0.76    84.87 +- 0.49 |  88.56  -3.69!
+Linear + C&S     88.14 +- 1.39 |  88.62  -0.48    77.39 +- 1.13 |  76.31  +1.08    84.40 +- 0.58 |  89.99  -5.59!
+MLP + C&S        87.46 +- 1.33 |  87.56  -0.10    75.71 +- 0.93 |  76.42  -0.71    88.93 +- 0.49 |  89.29  -0.36 
+
+B. Step ablation (E4): test accuracy, mean +- std
+Method                    Cora        Citeseer          Pubmed
+Linear           75.87 +- 1.90   70.77 +- 0.76   83.22 +- 0.65
+Linear + C       78.38 +- 1.71   71.80 +- 0.54   84.87 +- 0.49
+Linear + S       88.10 +- 1.33   76.92 +- 0.99   87.25 +- 0.51
+Linear + C&S     88.14 +- 1.39   77.39 +- 1.13   84.40 +- 0.58
+MLP              72.69 +- 1.76   68.68 +- 0.69   86.81 +- 0.49
+MLP + C          72.67 +- 1.74   68.68 +- 0.69   86.87 +- 0.50
+MLP + S          87.46 +- 1.33   75.71 +- 0.93   88.86 +- 0.50
+MLP + C&S        87.46 +- 1.33   75.71 +- 0.93   88.93 +- 0.49
+
+C. Cost: parameters | base-model training time (s) | propagation time (ms), means over splits
+Method                                Cora                    Citeseer                      Pubmed
+Linear            10,038 |   4.42 |      -    22,224 |  12.13 |      -     1,503 |   9.95 |      -
+MLP               96,647 |   7.14 |      -   241,862 |  14.04 |      -    36,675 |  32.12 |      -
+LP                     0 |   0.00 |    6.2         0 |   0.00 |    9.9         0 |   0.00 |   24.3
+GCN               92,231 |  10.15 |      -   237,446 |  19.65 |      -    32,259 |  61.34 |      -
+Linear + C        10,038 |   4.42 |    9.1    22,224 |  12.13 |   10.8     1,503 |   9.95 |   22.7
+Linear + S        10,038 |   4.42 |    7.4    22,224 |  12.13 |   10.8     1,503 |   9.95 |   20.9
+Linear + C&S      10,038 |   4.42 |   15.6    22,224 |  12.13 |   22.6     1,503 |   9.95 |   42.0
+MLP + C           96,647 |   7.14 |    8.6   241,862 |  14.04 |    9.1    36,675 |  32.12 |   22.5
+MLP + S           96,647 |   7.14 |    7.8   241,862 |  14.04 |    9.1    36,675 |  32.12 |   17.6
+MLP + C&S         96,647 |   7.14 |   17.2   241,862 |  14.04 |   18.6    36,675 |  32.12 |   37.9
+
+Isolated test nodes (no neighbours) and accuracy on the remaining test nodes
+  Cora      LP            isolated test nodes  0.0 of 543 | all test  84.22 +- 0.88 | connected only  84.22 +- 0.88
+  Cora      Linear + C&S  isolated test nodes  0.0 of 543 | all test  88.14 +- 1.39 | connected only  88.14 +- 1.39
+  Cora      MLP + C&S     isolated test nodes  0.0 of 543 | all test  87.46 +- 1.33 | connected only  87.46 +- 1.33
+  Citeseer  LP            isolated test nodes  7.5 of 666 | all test  69.86 +- 0.90 | connected only  70.37 +- 0.94
+  Citeseer  Linear + C&S  isolated test nodes  7.5 of 666 | all test  77.39 +- 1.13 | connected only  77.68 +- 1.18
+  Citeseer  MLP + C&S     isolated test nodes  7.5 of 666 | all test  75.71 +- 0.93 | connected only  76.04 +- 0.98
+  Pubmed    LP            isolated test nodes  0.0 of 3944 | all test  83.34 +- 0.53 | connected only  83.34 +- 0.53
+  Pubmed    Linear + C&S  isolated test nodes  0.0 of 3944 | all test  84.40 +- 0.58 | connected only  84.40 +- 0.58
+  Pubmed    MLP + C&S     isolated test nodes  0.0 of 3944 | all test  88.93 +- 0.49 | connected only  88.93 +- 0.49

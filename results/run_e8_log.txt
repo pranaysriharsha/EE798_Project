@@ -1,0 +1,62 @@
+  Cora seed 0:  18.5 s | LP 82.87  MLP + C&S 85.82  GCN 86.37
+  Cora seed 1:  19.7 s | LP 83.98  MLP + C&S 87.29  GCN 88.03
+  Cora seed 2:  19.0 s | LP 85.27  MLP + C&S 89.69  GCN 87.85
+Cora p=0.0 done (total 57 s)
+  Cora seed 0:  18.4 s | LP 81.03  MLP + C&S 84.90  GCN 86.74
+  Cora seed 1:  17.7 s | LP 82.32  MLP + C&S 83.61  GCN 87.48
+  Cora seed 2:  17.7 s | LP 82.50  MLP + C&S 86.56  GCN 90.24
+Cora p=0.1 done (total 111 s)
+  Cora seed 0:  18.4 s | LP 80.66  MLP + C&S 80.85  GCN 86.92
+  Cora seed 1:  17.9 s | LP 82.14  MLP + C&S 82.87  GCN 87.85
+  Cora seed 2:  17.7 s | LP 82.50  MLP + C&S 85.08  GCN 89.69
+Cora p=0.2 done (total 165 s)
+  Cora seed 0:  17.9 s | LP 78.64  MLP + C&S 77.16  GCN 85.64
+  Cora seed 1:  17.8 s | LP 79.74  MLP + C&S 82.14  GCN 85.64
+  Cora seed 2:  17.8 s | LP 80.66  MLP + C&S 84.35  GCN 87.48
+Cora p=0.3 done (total 219 s)
+  Cora seed 0:  18.1 s | LP 78.45  MLP + C&S 80.29  GCN 85.64
+  Cora seed 1:  17.7 s | LP 77.72  MLP + C&S 76.80  GCN 84.71
+  Cora seed 2:  17.6 s | LP 77.53  MLP + C&S 80.29  GCN 85.45
+Cora p=0.4 done (total 272 s)
+  Citeseer seed 0:  33.8 s | LP 69.82  MLP + C&S 74.47  GCN 76.13
+  Citeseer seed 1:  34.5 s | LP 71.32  MLP + C&S 76.58  GCN 76.43
+  Citeseer seed 2:  33.8 s | LP 70.27  MLP + C&S 75.68  GCN 76.73
+Citeseer p=0.0 done (total 374 s)
+  Citeseer seed 0:  37.5 s | LP 66.67  MLP + C&S 71.77  GCN 75.98
+  Citeseer seed 1:  34.4 s | LP 69.22  MLP + C&S 72.97  GCN 75.83
+  Citeseer seed 2:  34.1 s | LP 68.92  MLP + C&S 75.38  GCN 76.73
+Citeseer p=0.1 done (total 480 s)
+  Citeseer seed 0:  35.8 s | LP 64.56  MLP + C&S 68.32  GCN 75.38
+  Citeseer seed 1:  36.9 s | LP 67.27  MLP + C&S 68.77  GCN 74.47
+  Citeseer seed 2:  34.0 s | LP 68.17  MLP + C&S 71.92  GCN 77.48
+Citeseer p=0.2 done (total 587 s)
+  Citeseer seed 0:  36.0 s | LP 61.11  MLP + C&S 66.22  GCN 73.87
+  Citeseer seed 1:  38.2 s | LP 64.56  MLP + C&S 64.26  GCN 72.82
+  Citeseer seed 2:  35.6 s | LP 67.12  MLP + C&S 69.82  GCN 75.98
+Citeseer p=0.3 done (total 697 s)
+  Citeseer seed 0:  36.1 s | LP 59.46  MLP + C&S 61.41  GCN 73.72
+  Citeseer seed 1:  34.5 s | LP 61.41  MLP + C&S 63.06  GCN 70.87
+  Citeseer seed 2:  35.7 s | LP 62.16  MLP + C&S 68.32  GCN 75.68
+Citeseer p=0.4 done (total 803 s)
+
+E8: clean-test accuracy (mean +- std over 3 splits) vs share p of flipped training labels
+
+Cora
+Method               p=0.0          p=0.1          p=0.2          p=0.3          p=0.4  drop 0->0.4
+MLP           73.66 +- 1.15   64.70 +- 0.59   59.05 +- 2.33   51.69 +- 1.97   43.77 +- 0.28        29.90
+LP            84.04 +- 1.20   81.95 +- 0.80   81.77 +- 0.97   79.68 +- 1.01   77.90 +- 0.49         6.14
+GCN           87.42 +- 0.91   88.15 +- 1.84   88.15 +- 1.41   86.25 +- 1.06   85.27 +- 0.49         2.15
+MLP + S       87.60 +- 1.95   85.02 +- 1.48   82.87 +- 2.21   81.03 +- 3.68   79.13 +- 1.86         8.47
+MLP + C&S     87.60 +- 1.95   85.02 +- 1.48   82.93 +- 2.12   81.22 +- 3.68   79.13 +- 2.02         8.47
+Largest loss on Cora: MLP (29.90 points)
+
+Citeseer
+Method               p=0.0          p=0.1          p=0.2          p=0.3          p=0.4  drop 0->0.4
+MLP           68.92 +- 1.08   62.91 +- 0.65   57.36 +- 0.69   52.70 +- 3.18   45.55 +- 0.46        23.37
+LP            70.47 +- 0.77   68.27 +- 1.40   66.67 +- 1.88   64.26 +- 3.01   61.01 +- 1.40         9.46
+GCN           76.43 +- 0.30   76.18 +- 0.48   75.78 +- 1.54   74.22 +- 1.61   73.42 +- 2.42         3.00
+MLP + S       75.58 +- 1.05   73.37 +- 1.74   69.72 +- 1.79   66.32 +- 3.04   64.31 +- 3.83        11.26
+MLP + C&S     75.58 +- 1.05   73.37 +- 1.83   69.67 +- 1.96   66.77 +- 2.82   64.26 +- 3.61        11.31
+Largest loss on Citeseer: MLP (23.37 points)
+
+Total time 803 s

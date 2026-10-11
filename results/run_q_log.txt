@@ -1,0 +1,13 @@
+Cora seed 0: alpha_c 0.5, alpha_s 0.9; test acc Z 72.38, after Correct 72.38, after Smooth 85.82
+Cora done
+Texas seed 0: alpha_c 0.5, alpha_s 0.8; test acc Z 63.16, after Correct 63.16, after Smooth 57.89
+Texas done
+dataset  outcome     
+Cora     broken           14
+         fixed            87
+         stayed right    379
+         stayed wrong     63
+Texas    broken            3
+         fixed             1
+         stayed right     21
+         stayed wrong     13
